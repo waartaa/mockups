@@ -631,5 +631,41 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
          x="509.99545"
          y="208.76259"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24.62992477px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle">Start using waartaa today.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="311.70923"
+       y="833.3418"
+       id="text90899"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan90901"
+         sodipodi:role="line"
+         x="311.70923"
+         y="833.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="299.10522"
+       y="834.3418"
+       id="text90907"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan90909"
+         sodipodi:role="line"
+         x="299.10522"
+         y="834.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac">.btn-primary</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text90911"
+       y="630.3418"
+       x="299.10522"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac"
+         y="630.3418"
+         x="299.10522"
+         sodipodi:role="line"
+         id="tspan90913">.form-group</tspan></text>
   </g>
 </svg>
