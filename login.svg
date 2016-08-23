@@ -184,14 +184,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="146.41279"
-     inkscape:cy="478.82597"
+     inkscape:zoom="1"
+     inkscape:cx="450.21055"
+     inkscape:cy="518.82597"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
@@ -217,11 +217,11 @@
        inkscape:label="3rem padding"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="512,1074"
+       position="511,1097"
        orientation="1,0"
        id="guide83842"
        inkscape:label="Center"
-       inkscape:color="rgb(229,229,229)" />
+       inkscape:color="rgb(250,250,250)" />
   </sodipodi:namedview>
   <metadata
      id="metadata164139">
@@ -269,7 +269,7 @@
        sodipodi:linespacing="521%"
        id="text244391"
        y="286.18219"
-       x="409.9039"
+       x="209.9039"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -277,14 +277,14 @@
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
          y="286.18219"
-         x="409.9039"
+         x="209.9039"
          id="tspan244393"
          sodipodi:role="line">Use an existing account </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="352.31937"
-       y="664.18219"
+       x="592.31934"
+       y="366.18219"
        id="text83854"
        sodipodi:linespacing="521%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -292,22 +292,22 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan83856"
-         x="352.31937"
-         y="664.18219"
+         x="592.31934"
+         y="366.18219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1">Full name</tspan></text>
     <text
        sodipodi:linespacing="521%"
        id="text83860"
-       y="724.18213"
-       x="352.31937"
+       y="426.18213"
+       x="592.31934"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
-         y="724.18213"
-         x="352.31937"
+         y="426.18213"
+         x="592.31934"
          id="tspan83862"
          sodipodi:role="line">Email</tspan></text>
     <rect
@@ -315,8 +315,8 @@
        id="rect83864"
        width="343"
        height="37"
-       x="340.5"
-       y="758.86218"
+       x="580.5"
+       y="460.86218"
        ry="5"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
@@ -324,8 +324,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="352.31937"
-       y="784.18213"
+       x="592.31934"
+       y="486.18213"
        id="text83866"
        sodipodi:linespacing="521%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -333,12 +333,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan83868"
-         x="352.31937"
-         y="784.18213"
+         x="592.31934"
+         y="486.18213"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1">Password</tspan></text>
     <rect
-       y="818.86218"
-       x="340.5"
+       y="584.86218"
+       x="580.5"
        height="37"
        width="167"
        id="rect83870"
@@ -349,8 +349,8 @@
        inkscape:export-ydpi="90" />
     <rect
        ry="5"
-       y="698.86218"
-       x="340.5"
+       y="400.86218"
+       x="580.5"
        height="37"
        width="343"
        id="rect83900"
@@ -363,8 +363,8 @@
        id="rect83902"
        width="343"
        height="37"
-       x="340.5"
-       y="638.86218"
+       x="580.5"
+       y="340.86218"
        ry="5"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
@@ -372,31 +372,31 @@
     <text
        sodipodi:linespacing="521%"
        id="text83984"
-       y="844.18213"
-       x="356.31937"
+       y="610.18213"
+       x="596.31934"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1"
-         y="844.18213"
-         x="356.31937"
+         y="610.18213"
+         x="596.31934"
          sodipodi:role="line"
          id="tspan83992">Create Account</tspan></text>
     <text
        sodipodi:linespacing="521%"
        id="text83848"
-       y="611.17505"
-       x="511.85672"
+       y="285.17505"
+       x="751.85669"
        style="font-style:normal;font-weight:normal;font-size:45.40675735px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle"
-         y="611.17505"
-         x="511.85672"
+         y="285.17505"
+         x="751.85669"
          id="tspan83850"
          sodipodi:role="line">Create a Waartaa account</tspan></text>
     <text
@@ -419,8 +419,8 @@
        id="rect84010"
        width="199"
        height="42"
-       x="302.5"
-       y="322.86212"
+       x="242.5"
+       y="342.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
@@ -430,8 +430,8 @@
        id="rect90690"
        width="39"
        height="42"
-       x="303"
-       y="382.86212"
+       x="243"
+       y="402.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
@@ -439,7 +439,7 @@
     <use
        id="use85681"
        xlink:href="#github"
-       transform="matrix(0.24220161,0,0,0.24220161,313.6,393.23873)"
+       transform="matrix(0.24220161,0,0,0.24220161,253.6,413.23873)"
        x="0"
        y="0"
        width="100%"
@@ -452,16 +452,16 @@
        id="rect90692"
        width="39"
        height="42"
-       x="525"
-       y="322.86212"
+       x="245"
+       y="522.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        ry="0.58059591"
-       y="382.86212"
-       x="525"
+       y="582.86212"
+       x="245"
        height="42"
        width="39"
        id="rect90694"
@@ -471,8 +471,8 @@
        inkscape:export-ydpi="90" />
     <rect
        ry="0.58059591"
-       y="322.86212"
-       x="524.5"
+       y="522.86212"
+       x="244.5"
        height="42"
        width="199"
        id="rect85914"
@@ -482,8 +482,8 @@
        inkscape:export-ydpi="90" />
     <rect
        ry="0.58059591"
-       y="382.86212"
-       x="302.5"
+       y="402.86212"
+       x="242.5"
        height="42"
        width="199"
        id="rect85916"
@@ -496,16 +496,16 @@
        id="rect85918"
        width="199"
        height="42"
-       x="524.5"
-       y="382.86212"
+       x="244.5"
+       y="582.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        ry="0.58059591"
-       y="322.86212"
-       x="303"
+       y="342.86212"
+       x="243"
        height="42"
        width="39"
        id="rect90688"
@@ -515,8 +515,8 @@
        inkscape:export-ydpi="90" />
     <rect
        ry="0.58059591"
-       y="442.86212"
-       x="412.5"
+       y="462.86212"
+       x="242.5"
        height="42"
        width="199"
        id="rect90666"
@@ -527,8 +527,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="357.31937"
-       y="348.18219"
+       x="297.31937"
+       y="368.18219"
        id="text90668"
        sodipodi:linespacing="521%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -536,44 +536,44 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan90670"
-         x="357.31937"
-         y="348.18219"
+         x="297.31937"
+         y="368.18219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Fedora</tspan></text>
     <text
        sodipodi:linespacing="521%"
        id="text90672"
-       y="408.18219"
-       x="357.31937"
+       y="428.18219"
+       x="297.31937"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="408.18219"
-         x="357.31937"
+         y="428.18219"
+         x="297.31937"
          id="tspan90674"
          sodipodi:role="line">Log in with GitHub</tspan></text>
     <text
        sodipodi:linespacing="521%"
        id="text90676"
-       y="348.18219"
-       x="583.31934"
+       y="548.18219"
+       x="303.31934"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="348.18219"
-         x="583.31934"
+         y="548.18219"
+         x="303.31934"
          id="tspan90678"
          sodipodi:role="line">Log in with Google</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="583.31934"
-       y="408.18219"
+       x="303.31934"
+       y="608.18219"
        id="text90680"
        sodipodi:linespacing="521%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -581,14 +581,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan90682"
-         x="583.31934"
-         y="408.18219"
+         x="303.31934"
+         y="608.18219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Twitter</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="466.31937"
-       y="468.18219"
+       x="296.31937"
+       y="488.18219"
        id="text90684"
        sodipodi:linespacing="521%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -596,13 +596,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan90686"
-         x="466.31937"
-         y="468.18219"
+         x="296.31937"
+         y="488.18219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Facebook</tspan></text>
     <use
        id="use90709"
        xlink:href="#google-plus"
-       transform="matrix(0.23789264,0,0,0.23789264,535.06937,334.06586)"
+       transform="matrix(0.23789264,0,0,0.23789264,255.06937,534.06586)"
        x="0"
        y="0"
        width="100%"
@@ -614,7 +614,7 @@
     <use
        id="use90731"
        xlink:href="#twitter"
-       transform="matrix(0.25,0,0,0.25,533.975,394.16219)"
+       transform="matrix(0.25,0,0,0.25,253.975,594.16219)"
        x="0"
        y="0"
        width="100%"
@@ -628,8 +628,8 @@
        id="rect90742"
        width="39"
        height="42"
-       x="413"
-       y="442.86212"
+       x="243"
+       y="462.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
@@ -637,7 +637,7 @@
     <use
        id="use90755"
        xlink:href="#facebook"
-       transform="matrix(0.19586895,0,0,0.19586895,426.46962,456.81404)"
+       transform="matrix(0.19586895,0,0,0.19586895,256.46962,476.81404)"
        x="0"
        y="0"
        width="100%"
@@ -647,8 +647,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
-       y="336.36218"
-       x="314"
+       y="356.36218"
+       x="254"
        id="image90880"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
 WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j
@@ -672,40 +672,6 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 255.5,549.86219 513,0"
-       id="path90887"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect90889"
-       width="42"
-       height="31"
-       x="491"
-       y="533.36218"
-       ry="5"
-       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:33.51570511px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="500.94769"
-       y="555.19067"
-       id="text90891"
-       sodipodi:linespacing="521%"
-       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan90893"
-         x="500.94769"
-         y="555.19067"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66312027px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">OR</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:43.78653336px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -736,8 +702,8 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="299.10522"
-       y="834.3418"
+       x="839.10522"
+       y="600.3418"
        id="text90907"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -745,29 +711,29 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          id="tspan90909"
          sodipodi:role="line"
-         x="299.10522"
-         y="834.3418"
+         x="839.10522"
+         y="600.3418"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac">.btn-primary</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text90911"
-       y="630.3418"
-       x="299.10522"
+       y="332.3418"
+       x="959.10522"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac"
-         y="630.3418"
-         x="299.10522"
+         y="332.3418"
+         x="959.10522"
          sodipodi:role="line"
          id="tspan90913">.form-group</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="208.02222"
-       y="409.3418"
+       x="148.02222"
+       y="429.3418"
        id="text90915"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -775,29 +741,29 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          id="tspan90917"
          sodipodi:role="line"
-         x="208.02222"
-         y="409.3418"
+         x="148.02222"
+         y="429.3418"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">social acct</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text90919"
-       y="470.3418"
-       x="334.02222"
+       y="490.3418"
+       x="148.02222"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
-         y="470.3418"
-         x="334.02222"
+         y="490.3418"
+         x="148.02222"
          sodipodi:role="line"
          id="tspan90921">social acct</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="753.02222"
-       y="408.3418"
+       x="148.02222"
+       y="608.3418"
        id="text90923"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -805,29 +771,29 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          id="tspan90925"
          sodipodi:role="line"
-         x="753.02222"
-         y="408.3418"
+         x="148.02222"
+         y="608.3418"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">social acct</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text90927"
-       y="347.3418"
-       x="752.02222"
+       y="547.3418"
+       x="148.02222"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
-         y="347.3418"
-         x="752.02222"
+         y="547.3418"
+         x="148.02222"
          sodipodi:role="line"
          id="tspan90929">social acct</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="214.02222"
-       y="350.3418"
+       x="159.24663"
+       y="370.3418"
        id="text90931"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -835,8 +801,609 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          id="tspan90933"
          sodipodi:role="line"
-         x="214.02222"
-         y="350.3418"
+         x="159.24663"
+         y="370.3418"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">provider</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-670.09607"
+       y="286.18219"
+       id="text173372"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173374"
+         x="-670.09607"
+         y="286.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Use an existing account </tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173376"
+       y="664.18219"
+       x="-727.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
+         y="664.18219"
+         x="-727.68066"
+         id="tspan173378"
+         sodipodi:role="line">Full name</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-727.68066"
+       y="724.18213"
+       id="text173380"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173382"
+         x="-727.68066"
+         y="724.18213"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1">Email</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="5"
+       y="758.86218"
+       x="-739.5"
+       height="37"
+       width="343"
+       id="rect173384"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173386"
+       y="784.18213"
+       x="-727.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
+         y="784.18213"
+         x="-727.68066"
+         id="tspan173388"
+         sodipodi:role="line">Password</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="6"
+       style="opacity:1;fill:#3071a9;fill-opacity:1;stroke:#2d6ca2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173390"
+       width="167"
+       height="37"
+       x="-739.5"
+       y="818.86218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173392"
+       width="343"
+       height="37"
+       x="-739.5"
+       y="698.86218"
+       ry="5" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="5"
+       y="638.86218"
+       x="-739.5"
+       height="37"
+       width="343"
+       id="rect173394"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-723.68066"
+       y="844.18213"
+       id="text173396"
+       sodipodi:linespacing="521%"><tspan
+         id="tspan173398"
+         sodipodi:role="line"
+         x="-723.68066"
+         y="844.18213"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1">Create Account</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:45.40675735px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-568.14331"
+       y="611.17505"
+       id="text173400"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173402"
+         x="-568.14331"
+         y="611.17505"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle">Create a Waartaa account</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="322.86212"
+       x="-777.5"
+       height="42"
+       width="199"
+       id="rect173404"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="382.86212"
+       x="-777"
+       height="42"
+       width="39"
+       id="rect173406"
+       style="opacity:1;fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <use
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.24220161,0,0,0.24220161,-766.4,393.23873)"
+       xlink:href="#github"
+       id="use173408" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="322.86212"
+       x="-555"
+       height="42"
+       width="39"
+       id="rect173410"
+       style="opacity:1;fill:#e77676;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173412"
+       width="39"
+       height="42"
+       x="-555"
+       y="382.86212"
+       ry="0.58059591" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173414"
+       width="199"
+       height="42"
+       x="-555.5"
+       y="322.86212"
+       ry="0.58059591" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173416"
+       width="199"
+       height="42"
+       x="-777.5"
+       y="382.86212"
+       ry="0.58059591" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="382.86212"
+       x="-555.5"
+       height="42"
+       width="199"
+       id="rect173418"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173420"
+       width="39"
+       height="42"
+       x="-777"
+       y="322.86212"
+       ry="0.58059591" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173422"
+       width="199"
+       height="42"
+       x="-667.5"
+       y="442.86212"
+       ry="0.58059591" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173424"
+       y="348.18219"
+       x="-722.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="348.18219"
+         x="-722.68066"
+         id="tspan173426"
+         sodipodi:role="line">Log in with Fedora</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-722.68066"
+       y="408.18219"
+       id="text173428"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173430"
+         x="-722.68066"
+         y="408.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with GitHub</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.68066"
+       y="348.18219"
+       id="text173432"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173434"
+         x="-496.68066"
+         y="348.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Google</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173436"
+       y="408.18219"
+       x="-496.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="408.18219"
+         x="-496.68066"
+         id="tspan173438"
+         sodipodi:role="line">Log in with Twitter</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173440"
+       y="468.18219"
+       x="-613.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="468.18219"
+         x="-613.68066"
+         id="tspan173442"
+         sodipodi:role="line">Log in with Facebook</tspan></text>
+    <use
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="fill:#ffffff"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.23789264,0,0,0.23789264,-544.93063,334.06586)"
+       xlink:href="#google-plus"
+       id="use173444" />
+    <use
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="fill:#ffffff"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.25,0,0,0.25,-546.025,394.16219)"
+       xlink:href="#twitter"
+       id="use173446" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="442.86212"
+       x="-667"
+       height="42"
+       width="39"
+       id="rect173448"
+       style="opacity:1;fill:#7290ba;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <use
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="fill:#ffffff"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.19586895,0,0,0.19586895,-653.53038,456.81404)"
+       xlink:href="#facebook"
+       id="use173450" />
+    <image
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       width="16"
+       height="16"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
+WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j
+NB7SsjQlJtFszMlCOpBSTUJBpHQZ1n1RFCR1EUF02U1DB/oBRVmXGXYiaiICzY5qOWIlleWhPJdz
+2LP3Xl3MbJnE92rx8b3v+taz1hLMky/QXAk0AY3A6lS5H7gLtIRDwd70fpky2eb7QDdwBvADLtO0
+XJGo7o/FjTPxeKLbF2huS/eItJ2fADvT0zMyNE4eaqRpXy1SQEfPTw6fu4U+Ofw0HArWAzhS5nvA
+rnTzbCTO9UvH2bNjHXrCoLf/B/2jBl1DYBmxVXmF/k1jX9tbROrM3XaYrfVVpbRcPsqbD185eOwK
+0VgclyeHZVW1WHqcid7nppAOv0wB+8+sFGxY6wXg6vXHKKVY5HYhjQjG32k0d7Y9/QGZos3/AQoh
+k2tdTwAqCUw6cLizsBJxu7VRm7sqIZDOTIoKcihckk1J4VIAqiu9KKUYmYgym1GEkA5i44OI5A6r
+hS/QrJRlkVtWg8Ody7XTAcpWZM0fiqlZg/pTj3DGxvnzrQelLIC48AVOqGxvNa7c5ST+TlCWb1Ll
+zaNuUwW1NeW0tLYzODzOy48j9H/5gRmZQsg5ZN2adGbi9OSRmJ1meuAtb74oXncqNE1SW1POg2fv
+efXuE1KKOQ5puiOFkCAElh5J4rcfkTPZaBomQrCQDOC2VKYBloXmWWyDwenU2L6lEsO0GJucQSyc
+8DAcCoY1y9CJjn0nq7iC8+cOk0mUlcVLqCgtorNrgKGRyYXMj8OhYEPyMwkxExkdQP/1ma3+QrZt
+XkNJUT7POvrYf+QilmXNH7tt49kLu+2C8AWaG4AbSqkcj8dNQX42kajO6O8pG1wC6ANagZvhULAP
+oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
+"
+       id="image173452"
+       x="-766"
+       y="336.36218" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:connector-curvature="0"
+       id="path173454"
+       d="m -824.5,549.86219 513,0"
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="5"
+       y="533.36218"
+       x="-589"
+       height="31"
+       width="42"
+       id="rect173456"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173458"
+       y="555.19067"
+       x="-579.05231"
+       style="font-style:normal;font-weight:normal;font-size:33.51570511px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66312027px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="555.19067"
+         x="-579.05231"
+         id="tspan173460"
+         sodipodi:role="line">OR</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173462"
+       y="208.76259"
+       x="-570.00452"
+       style="font-style:normal;font-weight:normal;font-size:43.78653336px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24.62992477px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle"
+         y="208.76259"
+         x="-570.00452"
+         id="tspan173464"
+         sodipodi:role="line">Start using waartaa today.</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="125%"
+       id="text173466"
+       y="834.3418"
+       x="-780.89478"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac"
+         y="834.3418"
+         x="-780.89478"
+         sodipodi:role="line"
+         id="tspan173468">.btn-primary</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-780.89478"
+       y="630.3418"
+       id="text173470"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan173472"
+         sodipodi:role="line"
+         x="-780.89478"
+         y="630.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac">.form-group</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="125%"
+       id="text173474"
+       y="409.3418"
+       x="-871.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
+         y="409.3418"
+         x="-871.97778"
+         sodipodi:role="line"
+         id="tspan173476">social acct</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-745.97778"
+       y="470.3418"
+       id="text173478"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan173480"
+         sodipodi:role="line"
+         x="-745.97778"
+         y="470.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">social acct</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="125%"
+       id="text173482"
+       y="408.3418"
+       x="-326.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
+         y="408.3418"
+         x="-326.97778"
+         sodipodi:role="line"
+         id="tspan173484">social acct</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-327.97778"
+       y="347.3418"
+       id="text173486"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan173488"
+         sodipodi:role="line"
+         x="-327.97778"
+         y="347.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">social acct</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="125%"
+       id="text173490"
+       y="350.3418"
+       x="-865.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
+         y="350.3418"
+         x="-865.97778"
+         sodipodi:role="line"
+         id="tspan173492">provider</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="5"
+       y="520.86218"
+       x="580.5"
+       height="37"
+       width="343"
+       id="rect173494"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173496"
+       y="546.18213"
+       x="592.31934"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
+         y="546.18213"
+         x="592.31934"
+         id="tspan173498"
+         sodipodi:role="line">Password repeat</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#eeeeee;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 511.00002,633.3622 0,-375"
+       id="path173502"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g173506">
+      <circle
+         r="24"
+         cy="442.36218"
+         cx="512"
+         id="path173500"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#eeeeee;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+         sodipodi:linespacing="521%"
+         id="text90891"
+         y="449.19067"
+         x="500.94775"
+         style="font-style:normal;font-weight:normal;font-size:33.51570511px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66312027px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+           y="449.19067"
+           x="500.94775"
+           id="tspan90893"
+           sodipodi:role="line">OR</tspan></text>
+    </g>
   </g>
 </svg>
