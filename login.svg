@@ -51,7 +51,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="342.41279"
-     inkscape:cy="544.06113"
+     inkscape:cy="584.06113"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -76,11 +76,17 @@
        inkscape:label="Padding (10px)"
        inkscape:color="rgb(115,162,200)" />
     <sodipodi:guide
-       position="-100,854"
+       position="-100,864"
        orientation="0,1"
        id="guide244389"
        inkscape:label="3rem padding"
-       inkscape:color="rgb(115,162,200)" />
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="512,1074"
+       orientation="1,0"
+       id="guide83842"
+       inkscape:label="Center"
+       inkscape:color="rgb(229,229,229)" />
   </sodipodi:namedview>
   <metadata
      id="metadata164139">
@@ -121,14 +127,38 @@
     <text
        sodipodi:linespacing="521%"
        id="text244391"
-       y="232.18219"
-       x="430.71249"
+       y="206.18219"
+       x="369.81143"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-         y="232.18219"
-         x="430.71249"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="206.18219"
+         x="369.81143"
          id="tspan244393"
-         sodipodi:role="line">waartaa</tspan></text>
+         sodipodi:role="line">Start using waartaa today.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1074.8114"
+       y="270.18219"
+       id="text83844"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan83846"
+         x="1074.8114"
+         y="270.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Already have an account?</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text83848"
+       y="270.18219"
+       x="411.31937"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="270.18219"
+         x="411.31937"
+         id="tspan83850"
+         sodipodi:role="line">Create an account now.</tspan></text>
   </g>
 </svg>
