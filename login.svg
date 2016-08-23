@@ -41,6 +41,138 @@
        y2="468.36221"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.971537,0,0,0.63291135,0.971537,-166.17083)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath84002">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect84004"
+         width="413"
+         height="327"
+         x="305.5"
+         y="245.86212"
+         ry="4.5203538" />
+    </clipPath>
+    <symbol
+       id="github-square"
+       class="Brand-Icons">
+      <title
+         id="title9796">GitHub Square</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M394 184q-8 -9 -20 3q-13 11 -4 19q8 9 20 -3q12 -11 4 -19zM352 245q9 -12 0 -19q-8 -6 -17 7t0 18q9 7 17 -6zM291 305q-5 -7 -13 -2q-10 5 -7 12q3 5 13 2q10 -5 7 -12zM322 271q-6 -7 -16 3q-9 11 -2 16q6 6 16 -3q9 -11 2 -16zM451 159q-4 -12 -19 -6q-17 4 -13 15 t19 7q16 -5 13 -16zM514 154q0 -11 -16 -11q-17 -2 -17 11q0 11 16 11q17 2 17 -11zM572 164q2 -10 -14 -14t-18 8t14 15q16 2 18 -9zM1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-224q-16 0 -24.5 1t-19.5 5t-16 14.5t-5 27.5v239q0 97 -52 142q57 6 102.5 18t94 39 t81 66.5t53 105t20.5 150.5q0 121 -79 206q37 91 -8 204q-28 9 -81 -11t-92 -44l-38 -24q-93 26 -192 26t-192 -26q-16 11 -42.5 27t-83.5 38.5t-86 13.5q-44 -113 -7 -204q-79 -85 -79 -206q0 -85 20.5 -150t52.5 -105t80.5 -67t94 -39t102.5 -18q-40 -36 -49 -103 q-21 -10 -45 -15t-57 -5t-65.5 21.5t-55.5 62.5q-19 32 -48.5 52t-49.5 24l-20 3q-21 0 -29 -4.5t-5 -11.5t9 -14t13 -12l7 -5q22 -10 43.5 -38t31.5 -51l10 -23q13 -38 44 -61.5t67 -30t69.5 -7t55.5 3.5l23 4q0 -38 0.5 -103t0.5 -68q0 -22 -11 -33.5t-22 -13t-33 -1.5 h-224q-119 0 -203.5 84.5t-84.5 203.5v960q0 119 84.5 203.5t203.5 84.5h960q119 0 203.5 -84.5t84.5 -203.5z"
+         id="path9798" />
+    </symbol>
+    <symbol
+       id="github"
+       class="Brand-Icons">
+      <title
+         id="title9841">GitHub</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1536 640q0 -251 -146.5 -451.5t-378.5 -277.5q-27 -5 -39.5 7t-12.5 30v211q0 97 -52 142q57 6 102.5 18t94 39t81 66.5t53 105t20.5 150.5q0 121 -79 206q37 91 -8 204q-28 9 -81 -11t-92 -44l-38 -24q-93 26 -192 26t-192 -26q-16 11 -42.5 27t-83.5 38.5t-86 13.5 q-44 -113 -7 -204q-79 -85 -79 -206q0 -85 20.5 -150t52.5 -105t80.5 -67t94 -39t102.5 -18q-40 -36 -49 -103q-21 -10 -45 -15t-57 -5t-65.5 21.5t-55.5 62.5q-19 32 -48.5 52t-49.5 24l-20 3q-21 0 -29 -4.5t-5 -11.5t9 -14t13 -12l7 -5q22 -10 43.5 -38t31.5 -51l10 -23 q13 -38 44 -61.5t67 -30t69.5 -7t55.5 3.5l23 4q0 -38 0.5 -89t0.5 -54q0 -18 -13 -30t-40 -7q-232 77 -378.5 277.5t-146.5 451.5q0 209 103 385.5t279.5 279.5t385.5 103t385.5 -103t279.5 -279.5t103 -385.5z"
+         id="path9843" />
+    </symbol>
+    <symbol
+       id="facebook"
+       class="Brand-Icons">
+      <title
+         id="title9836">Facebook</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M959 1524v-264h-157q-86 0 -116 -36t-30 -108v-189h293l-39 -296h-254v-759h-306v759h-255v296h255v218q0 186 104 288.5t277 102.5q147 0 228 -12z"
+         id="path9838" />
+    </symbol>
+    <symbol
+       id="facebook-square"
+       class="Brand-Icons">
+      <title
+         id="title9721">Facebook Square</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1248 1408q119 0 203.5 -84.5t84.5 -203.5v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-188v595h199l30 232h-229v148q0 56 23.5 84t91.5 28l122 1v207q-63 9 -178 9q-136 0 -217.5 -80t-81.5 -226v-171h-200v-232h200v-595h-532q-119 0 -203.5 84.5t-84.5 203.5v960 q0 119 84.5 203.5t203.5 84.5h960z"
+         id="path9723" />
+    </symbol>
+    <symbol
+       id="google-plus-square"
+       class="Brand-Icons">
+      <title
+         id="title10046">Google Plus Square</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M829 318q0 -76 -58.5 -112.5t-139.5 -36.5q-41 0 -80.5 9.5t-75.5 28.5t-58 53t-22 78q0 46 25 80t65.5 51.5t82 25t84.5 7.5q20 0 31 -2q2 -1 23 -16.5t26 -19t23 -18t24.5 -22t19 -22.5t17 -26t9 -26.5t4.5 -31.5zM755 863q0 -60 -33 -99.5t-92 -39.5q-53 0 -93 42.5 t-57.5 96.5t-17.5 106q0 61 32 104t92 43q53 0 93.5 -45t58 -101t17.5 -107zM861 1120l88 64h-265q-85 0 -161 -32t-127.5 -98t-51.5 -153q0 -93 64.5 -154.5t158.5 -61.5q22 0 43 3q-13 -29 -13 -54q0 -44 40 -94q-175 -12 -257 -63q-47 -29 -75.5 -73t-28.5 -95 q0 -43 18.5 -77.5t48.5 -56.5t69 -37t77.5 -21t76.5 -6q60 0 120.5 15.5t113.5 46t86 82.5t33 117q0 49 -20 89.5t-49 66.5t-58 47.5t-49 44t-20 44.5t15.5 42.5t37.5 39.5t44 42t37.5 59.5t15.5 82.5q0 60 -22.5 99.5t-72.5 90.5h83zM1152 672h128v64h-128v128h-64v-128 h-128v-64h128v-160h64v160zM1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-960q-119 0 -203.5 84.5t-84.5 203.5v960q0 119 84.5 203.5t203.5 84.5h960q119 0 203.5 -84.5t84.5 -203.5z"
+         id="path10048" />
+    </symbol>
+    <symbol
+       id="twitter-square"
+       class="Brand-Icons">
+      <title
+         id="title9716">Twitter Square</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1280 926q-56 -25 -121 -34q68 40 93 117q-65 -38 -134 -51q-61 66 -153 66q-87 0 -148.5 -61.5t-61.5 -148.5q0 -29 5 -48q-129 7 -242 65t-192 155q-29 -50 -29 -106q0 -114 91 -175q-47 1 -100 26v-2q0 -75 50 -133.5t123 -72.5q-29 -8 -51 -8q-13 0 -39 4 q21 -63 74.5 -104t121.5 -42q-116 -90 -261 -90q-26 0 -50 3q148 -94 322 -94q112 0 210 35.5t168 95t120.5 137t75 162t24.5 168.5q0 18 -1 27q63 45 105 109zM1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-960q-119 0 -203.5 84.5t-84.5 203.5v960q0 119 84.5 203.5 t203.5 84.5h960q119 0 203.5 -84.5t84.5 -203.5z"
+         id="path9718" />
+    </symbol>
+    <symbol
+       id="twitter"
+       class="Brand-Icons">
+      <title
+         id="title9831">Twitter</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1620 1128q-67 -98 -162 -167q1 -14 1 -42q0 -130 -38 -259.5t-115.5 -248.5t-184.5 -210.5t-258 -146t-323 -54.5q-271 0 -496 145q35 -4 78 -4q225 0 401 138q-105 2 -188 64.5t-114 159.5q33 -5 61 -5q43 0 85 11q-112 23 -185.5 111.5t-73.5 205.5v4q68 -38 146 -41 q-66 44 -105 115t-39 154q0 88 44 163q121 -149 294.5 -238.5t371.5 -99.5q-8 38 -8 74q0 134 94.5 228.5t228.5 94.5q140 0 236 -102q109 21 205 78q-37 -115 -142 -178q93 10 186 50z"
+         id="path9833" />
+    </symbol>
+    <symbol
+       id="google-plus"
+       class="Brand-Icons">
+      <title
+         id="title10051">Google Plus</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M735 740q0 -36 32 -70.5t77.5 -68t90.5 -73.5t77 -104t32 -142q0 -90 -48 -173q-72 -122 -211 -179.5t-298 -57.5q-132 0 -246.5 41.5t-171.5 137.5q-37 60 -37 131q0 81 44.5 150t118.5 115q131 82 404 100q-32 42 -47.5 74t-15.5 73q0 36 21 85q-46 -4 -68 -4 q-148 0 -249.5 96.5t-101.5 244.5q0 82 36 159t99 131q77 66 182.5 98t217.5 32h418l-138 -88h-131q74 -63 112 -133t38 -160q0 -72 -24.5 -129.5t-59 -93t-69.5 -65t-59.5 -61.5t-24.5 -66zM589 836q38 0 78 16.5t66 43.5q53 57 53 159q0 58 -17 125t-48.5 129.5 t-84.5 103.5t-117 41q-42 0 -82.5 -19.5t-65.5 -52.5q-47 -59 -47 -160q0 -46 10 -97.5t31.5 -103t52 -92.5t75 -67t96.5 -26zM591 -37q58 0 111.5 13t99 39t73 73t27.5 109q0 25 -7 49t-14.5 42t-27 41.5t-29.5 35t-38.5 34.5t-36.5 29t-41.5 30t-36.5 26q-16 2 -48 2 q-53 0 -105 -7t-107.5 -25t-97 -46t-68.5 -74.5t-27 -105.5q0 -70 35 -123.5t91.5 -83t119 -44t127.5 -14.5zM1401 839h213v-108h-213v-219h-105v219h-212v108h212v217h105v-217z"
+         id="path10053" />
+    </symbol>
+    <symbol
+       id="github-alt"
+       class="Brand-Icons">
+      <title
+         id="title10341">GitHub Alt</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M640 320q0 -40 -12.5 -82t-43 -76t-72.5 -34t-72.5 34t-43 76t-12.5 82t12.5 82t43 76t72.5 34t72.5 -34t43 -76t12.5 -82zM1280 320q0 -40 -12.5 -82t-43 -76t-72.5 -34t-72.5 34t-43 76t-12.5 82t12.5 82t43 76t72.5 34t72.5 -34t43 -76t12.5 -82zM1440 320 q0 120 -69 204t-187 84q-41 0 -195 -21q-71 -11 -157 -11t-157 11q-152 21 -195 21q-118 0 -187 -84t-69 -204q0 -88 32 -153.5t81 -103t122 -60t140 -29.5t149 -7h168q82 0 149 7t140 29.5t122 60t81 103t32 153.5zM1664 496q0 -207 -61 -331q-38 -77 -105.5 -133t-141 -86 t-170 -47.5t-171.5 -22t-167 -4.5q-78 0 -142 3t-147.5 12.5t-152.5 30t-137 51.5t-121 81t-86 115q-62 123 -62 331q0 237 136 396q-27 82 -27 170q0 116 51 218q108 0 190 -39.5t189 -123.5q147 35 309 35q148 0 280 -32q105 82 187 121t189 39q51 -102 51 -218 q0 -87 -27 -168q136 -160 136 -398z"
+         id="path10343" />
+    </symbol>
+    <symbol
+       id="credit-card"
+       class="Web-Application-Icons Payment-Icons">
+      <title
+         id="title9851">credit-card</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1760 1408q66 0 113 -47t47 -113v-1216q0 -66 -47 -113t-113 -47h-1600q-66 0 -113 47t-47 113v1216q0 66 47 113t113 47h1600zM160 1280q-13 0 -22.5 -9.5t-9.5 -22.5v-224h1664v224q0 13 -9.5 22.5t-22.5 9.5h-1600zM1760 0q13 0 22.5 9.5t9.5 22.5v608h-1664v-608 q0 -13 9.5 -22.5t22.5 -9.5h1600zM256 128v128h256v-128h-256zM640 128v128h384v-128h-384z"
+         id="path9853" />
+    </symbol>
+    <symbol
+       id="facebook-official"
+       class="Brand-Icons">
+      <title
+         id="title11651">Facebook Official</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1451 1408q35 0 60 -25t25 -60v-1366q0 -35 -25 -60t-60 -25h-391v595h199l30 232h-229v148q0 56 23.5 84t91.5 28l122 1v207q-63 9 -178 9q-136 0 -217.5 -80t-81.5 -226v-171h-200v-232h200v-595h-735q-35 0 -60 25t-25 60v1366q0 35 25 60t60 25h1366z"
+         id="path11653" />
+    </symbol>
+    <symbol
+       id="user"
+       class="Web-Application-Icons">
+      <title
+         id="title9146">User</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1408 131q0 -120 -73 -189.5t-194 -69.5h-874q-121 0 -194 69.5t-73 189.5q0 53 3.5 103.5t14 109t26.5 108.5t43 97.5t62 81t85.5 53.5t111.5 20q9 0 42 -21.5t74.5 -48t108 -48t133.5 -21.5t133.5 21.5t108 48t74.5 48t42 21.5q61 0 111.5 -20t85.5 -53.5t62 -81 t43 -97.5t26.5 -108.5t14 -109t3.5 -103.5zM1088 1024q0 -159 -112.5 -271.5t-271.5 -112.5t-271.5 112.5t-112.5 271.5t112.5 271.5t271.5 112.5t271.5 -112.5t112.5 -271.5z"
+         id="path9148" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,13 +182,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="222.41279"
-     inkscape:cy="584.06113"
+     inkscape:cx="146.41279"
+     inkscape:cy="478.82597"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
@@ -127,15 +259,15 @@
     <text
        sodipodi:linespacing="521%"
        id="text244391"
-       y="206.18219"
-       x="369.81143"
+       y="286.18219"
+       x="409.9039"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="206.18219"
-         x="369.81143"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="286.18219"
+         x="409.9039"
          id="tspan244393"
-         sodipodi:role="line">Start using waartaa today.</tspan></text>
+         sodipodi:role="line">Use an existing account </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -149,38 +281,26 @@
          y="270.18219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Already have an account?</tspan></text>
     <text
-       sodipodi:linespacing="521%"
-       id="text83848"
-       y="270.18219"
-       x="411.31937"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="270.18219"
-         x="411.31937"
-         id="tspan83850"
-         sodipodi:role="line">Create an account now.</tspan></text>
-    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="352.31937"
-       y="316.18219"
+       y="664.18219"
        id="text83854"
        sodipodi:linespacing="521%"><tspan
          sodipodi:role="line"
          id="tspan83856"
          x="352.31937"
-         y="316.18219"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1;">Full name</tspan></text>
+         y="664.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1">Full name</tspan></text>
     <text
        sodipodi:linespacing="521%"
        id="text83860"
-       y="376.18219"
+       y="724.18213"
        x="352.31937"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1;"
-         y="376.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
+         y="724.18213"
          x="352.31937"
          id="tspan83862"
          sodipodi:role="line">Email</tspan></text>
@@ -190,83 +310,31 @@
        width="343"
        height="37"
        x="340.5"
-       y="410.86218"
+       y="758.86218"
        ry="5" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="352.31937"
-       y="436.18219"
+       y="784.18213"
        id="text83866"
        sodipodi:linespacing="521%"><tspan
          sodipodi:role="line"
          id="tspan83868"
          x="352.31937"
-         y="436.18219"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1;">Password</tspan></text>
+         y="784.18213"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1">Password</tspan></text>
     <rect
-       y="470.86218"
+       y="818.86218"
        x="340.5"
        height="37"
-       width="343"
+       width="167"
        id="rect83870"
        style="opacity:1;fill:#3071a9;fill-opacity:1;stroke:#2d6ca2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        ry="6" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text83872"
-       y="303.3418"
-       x="-97.536255"
-       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="303.3418"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83876">placeholder</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="317.0625"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83890">color: a3a6a7</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="330.78323"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83892" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="344.50394"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83894">text</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="358.22467"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83888">color: #55595c</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="371.94537"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83880"></tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="385.66611"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83896">input</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="399.38681"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83898">border: #ccc</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
-         y="413.10751"
-         x="-97.536255"
-         sodipodi:role="line"
-         id="tspan83884" /></text>
     <rect
        ry="5"
-       y="350.86218"
+       y="698.86218"
        x="340.5"
        height="37"
        width="343"
@@ -278,59 +346,290 @@
        width="343"
        height="37"
        x="340.5"
-       y="290.86218"
+       y="638.86218"
+       ry="5" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text83984"
+       y="844.18213"
+       x="356.31937"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1"
+         y="844.18213"
+         x="356.31937"
+         sodipodi:role="line"
+         id="tspan83992">Create Account</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text83988"
+       y="368.18219"
+       x="1089.3193"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#2a6496;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#2a6496;fill-opacity:1"
+         y="368.18219"
+         x="1089.3193"
+         id="tspan83990"
+         sodipodi:role="line">Forgot password?</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text83848"
+       y="611.17505"
+       x="511.85672"
+       style="font-style:normal;font-weight:normal;font-size:45.40675735px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle"
+         y="611.17505"
+         x="511.85672"
+         id="tspan83850"
+         sodipodi:role="line">Create a Waartaa account</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text84084"
+       y="19.341797"
+       x="7.0222092"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac;"
+         y="19.341797"
+         x="7.0222092"
+         sodipodi:role="line"
+         id="tspan84086">.masthead</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect84010"
+       width="199"
+       height="42"
+       x="302.5"
+       y="322.86212"
+       ry="0.58059591" />
+    <rect
+       style="opacity:1;fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect90690"
+       width="39"
+       height="42"
+       x="303"
+       y="382.86212"
+       ry="0.58059591" />
+    <use
+       id="use85681"
+       xlink:href="#github"
+       transform="matrix(0.24220161,0,0,0.24220161,313.6,393.23873)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <rect
+       style="opacity:1;fill:#e77676;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect90692"
+       width="39"
+       height="42"
+       x="525"
+       y="322.86212"
+       ry="0.58059591" />
+    <rect
+       ry="0.58059591"
+       y="382.86212"
+       x="525"
+       height="42"
+       width="39"
+       id="rect90694"
+       style="opacity:1;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0.58059591"
+       y="322.86212"
+       x="524.5"
+       height="42"
+       width="199"
+       id="rect85914"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0.58059591"
+       y="382.86212"
+       x="302.5"
+       height="42"
+       width="199"
+       id="rect85916"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect85918"
+       width="199"
+       height="42"
+       x="524.5"
+       y="382.86212"
+       ry="0.58059591" />
+    <rect
+       ry="0.58059591"
+       y="322.86212"
+       x="303"
+       height="42"
+       width="39"
+       id="rect90688"
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0.58059591"
+       y="442.86212"
+       x="412.5"
+       height="42"
+       width="199"
+       id="rect90666"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="357.31937"
+       y="348.18219"
+       id="text90668"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan90670"
+         x="357.31937"
+         y="348.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Fedora</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text90672"
+       y="408.18219"
+       x="357.31937"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="408.18219"
+         x="357.31937"
+         id="tspan90674"
+         sodipodi:role="line">Log in with GitHub</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text90676"
+       y="348.18219"
+       x="583.31934"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="348.18219"
+         x="583.31934"
+         id="tspan90678"
+         sodipodi:role="line">Log in with Google</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="583.31934"
+       y="408.18219"
+       id="text90680"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan90682"
+         x="583.31934"
+         y="408.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Twitter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="466.31937"
+       y="468.18219"
+       id="text90684"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan90686"
+         x="466.31937"
+         y="468.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Facebook</tspan></text>
+    <use
+       id="use90709"
+       xlink:href="#google-plus"
+       transform="matrix(0.23789264,0,0,0.23789264,535.06937,334.06586)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff" />
+    <use
+       id="use90731"
+       xlink:href="#twitter"
+       transform="matrix(0.25,0,0,0.25,533.975,394.16219)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff" />
+    <rect
+       style="opacity:1;fill:#7290ba;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect90742"
+       width="39"
+       height="42"
+       x="413"
+       y="442.86212"
+       ry="0.58059591" />
+    <use
+       id="use90755"
+       xlink:href="#facebook"
+       transform="matrix(0.19586895,0,0,0.19586895,426.46962,456.81404)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff" />
+    <image
+       y="336.36218"
+       x="314"
+       id="image90880"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
+WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j
+NB7SsjQlJtFszMlCOpBSTUJBpHQZ1n1RFCR1EUF02U1DB/oBRVmXGXYiaiICzY5qOWIlleWhPJdz
+2LP3Xl3MbJnE92rx8b3v+taz1hLMky/QXAk0AY3A6lS5H7gLtIRDwd70fpky2eb7QDdwBvADLtO0
+XJGo7o/FjTPxeKLbF2huS/eItJ2fADvT0zMyNE4eaqRpXy1SQEfPTw6fu4U+Ofw0HArWAzhS5nvA
+rnTzbCTO9UvH2bNjHXrCoLf/B/2jBl1DYBmxVXmF/k1jX9tbROrM3XaYrfVVpbRcPsqbD185eOwK
+0VgclyeHZVW1WHqcid7nppAOv0wB+8+sFGxY6wXg6vXHKKVY5HYhjQjG32k0d7Y9/QGZos3/AQoh
+k2tdTwAqCUw6cLizsBJxu7VRm7sqIZDOTIoKcihckk1J4VIAqiu9KKUYmYgym1GEkA5i44OI5A6r
+hS/QrJRlkVtWg8Ody7XTAcpWZM0fiqlZg/pTj3DGxvnzrQelLIC48AVOqGxvNa7c5ST+TlCWb1Ll
+zaNuUwW1NeW0tLYzODzOy48j9H/5gRmZQsg5ZN2adGbi9OSRmJ1meuAtb74oXncqNE1SW1POg2fv
+efXuE1KKOQ5puiOFkCAElh5J4rcfkTPZaBomQrCQDOC2VKYBloXmWWyDwenU2L6lEsO0GJucQSyc
+8DAcCoY1y9CJjn0nq7iC8+cOk0mUlcVLqCgtorNrgKGRyYXMj8OhYEPyMwkxExkdQP/1ma3+QrZt
+XkNJUT7POvrYf+QilmXNH7tt49kLu+2C8AWaG4AbSqkcj8dNQX42kajO6O8pG1wC6ANagZvhULAP
+oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
+"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="16"
+       width="16" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 255.5,549.86219 513,0"
+       id="path90887"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect90889"
+       width="42"
+       height="31"
+       x="491"
+       y="533.36218"
        ry="5" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-97.536255"
-       y="483.3418"
-       id="text83904"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan83906"
+       style="font-style:normal;font-weight:normal;font-size:33.51570511px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="500.94769"
+       y="555.19067"
+       id="text90891"
+       sodipodi:linespacing="521%"><tspan
          sodipodi:role="line"
-         x="-97.536255"
-         y="483.3418"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">placeholder</tspan><tspan
-         id="tspan83908"
+         id="tspan90893"
+         x="500.94769"
+         y="555.19067"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66312027px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">OR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:43.78653336px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="509.99545"
+       y="208.76259"
+       id="text90895"
+       sodipodi:linespacing="521%"><tspan
          sodipodi:role="line"
-         x="-97.536255"
-         y="497.0625"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">color: a3a6a7</tspan><tspan
-         id="tspan83910"
-         sodipodi:role="line"
-         x="-97.536255"
-         y="510.78323"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'" /><tspan
-         id="tspan83912"
-         sodipodi:role="line"
-         x="-97.536255"
-         y="524.50391"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">text</tspan><tspan
-         id="tspan83914"
-         sodipodi:role="line"
-         x="-97.536255"
-         y="538.22467"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">color: #55595c</tspan><tspan
-         id="tspan83916"
-         sodipodi:role="line"
-         x="-97.536255"
-         y="551.94537"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"></tspan><tspan
-         id="tspan83918"
-         sodipodi:role="line"
-         x="-97.536255"
-         y="565.66608"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">input</tspan><tspan
-         id="tspan83920"
-         sodipodi:role="line"
-         x="-97.536255"
-         y="579.38684"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">border: #ccc</tspan><tspan
-         id="tspan83922"
-         sodipodi:role="line"
-         x="-97.536255"
-         y="593.10754"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'" /></text>
+         id="tspan90897"
+         x="509.99545"
+         y="208.76259"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24.62992477px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle">Start using waartaa today.</tspan></text>
   </g>
 </svg>
