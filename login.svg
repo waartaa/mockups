@@ -184,19 +184,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="450.21055"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="239.34659"
      inkscape:cy="518.82597"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1376"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="38"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="-100,1014"
@@ -231,7 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -269,7 +269,7 @@
        sodipodi:linespacing="521%"
        id="text244391"
        y="286.18219"
-       x="209.9039"
+       x="229.9039"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -277,7 +277,7 @@
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
          y="286.18219"
-         x="209.9039"
+         x="229.9039"
          id="tspan244393"
          sodipodi:role="line">Use an existing account </tspan></text>
     <text
@@ -311,13 +311,13 @@
          id="tspan83862"
          sodipodi:role="line">Email</tspan></text>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.89598018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect83864"
-       width="343"
-       height="37"
-       x="580.5"
-       y="460.86218"
-       ry="5"
+       width="275.22177"
+       height="37.017735"
+       x="580.448"
+       y="460.86771"
+       ry="5.0023966"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -348,24 +348,24 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       ry="5"
-       y="400.86218"
-       x="580.5"
-       height="37"
-       width="343"
+       ry="5.0023966"
+       y="400.83893"
+       x="580.448"
+       height="37.017735"
+       width="275.22177"
        id="rect83900"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.89598018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.89598018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect83902"
-       width="343"
-       height="37"
-       x="580.5"
-       y="340.86218"
-       ry="5"
+       width="275.22177"
+       height="37.017735"
+       x="580.448"
+       y="340.81018"
+       ry="5.0023966"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -388,7 +388,7 @@
        sodipodi:linespacing="521%"
        id="text83848"
        y="285.17505"
-       x="751.85669"
+       x="711.85669"
        style="font-style:normal;font-weight:normal;font-size:45.40675735px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -396,7 +396,7 @@
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle"
          y="285.17505"
-         x="751.85669"
+         x="711.85669"
          id="tspan83850"
          sodipodi:role="line">Create a Waartaa account</tspan></text>
     <text
@@ -419,7 +419,7 @@
        id="rect84010"
        width="199"
        height="42"
-       x="242.5"
+       x="222.5"
        y="342.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -430,7 +430,7 @@
        id="rect90690"
        width="39"
        height="42"
-       x="243"
+       x="223"
        y="402.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -439,7 +439,7 @@
     <use
        id="use85681"
        xlink:href="#github"
-       transform="matrix(0.24220161,0,0,0.24220161,253.6,413.23873)"
+       transform="matrix(0.24220161,0,0,0.24220161,233.6,413.23873)"
        x="0"
        y="0"
        width="100%"
@@ -452,7 +452,7 @@
        id="rect90692"
        width="39"
        height="42"
-       x="245"
+       x="225"
        y="522.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -461,7 +461,7 @@
     <rect
        ry="0.58059591"
        y="582.86212"
-       x="245"
+       x="225"
        height="42"
        width="39"
        id="rect90694"
@@ -472,7 +472,7 @@
     <rect
        ry="0.58059591"
        y="522.86212"
-       x="244.5"
+       x="224.5"
        height="42"
        width="199"
        id="rect85914"
@@ -483,7 +483,7 @@
     <rect
        ry="0.58059591"
        y="402.86212"
-       x="242.5"
+       x="222.5"
        height="42"
        width="199"
        id="rect85916"
@@ -496,7 +496,7 @@
        id="rect85918"
        width="199"
        height="42"
-       x="244.5"
+       x="224.5"
        y="582.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -505,7 +505,7 @@
     <rect
        ry="0.58059591"
        y="342.86212"
-       x="243"
+       x="223"
        height="42"
        width="39"
        id="rect90688"
@@ -516,7 +516,7 @@
     <rect
        ry="0.58059591"
        y="462.86212"
-       x="242.5"
+       x="222.5"
        height="42"
        width="199"
        id="rect90666"
@@ -527,7 +527,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="297.31937"
+       x="277.31937"
        y="368.18219"
        id="text90668"
        sodipodi:linespacing="521%"
@@ -536,14 +536,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan90670"
-         x="297.31937"
+         x="277.31937"
          y="368.18219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Fedora</tspan></text>
     <text
        sodipodi:linespacing="521%"
        id="text90672"
        y="428.18219"
-       x="297.31937"
+       x="277.31937"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -551,14 +551,14 @@
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
          y="428.18219"
-         x="297.31937"
+         x="277.31937"
          id="tspan90674"
          sodipodi:role="line">Log in with GitHub</tspan></text>
     <text
        sodipodi:linespacing="521%"
        id="text90676"
        y="548.18219"
-       x="303.31934"
+       x="283.31934"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -566,13 +566,13 @@
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
          y="548.18219"
-         x="303.31934"
+         x="283.31934"
          id="tspan90678"
          sodipodi:role="line">Log in with Google</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="303.31934"
+       x="283.31934"
        y="608.18219"
        id="text90680"
        sodipodi:linespacing="521%"
@@ -581,13 +581,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan90682"
-         x="303.31934"
+         x="283.31934"
          y="608.18219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Twitter</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="296.31937"
+       x="276.31937"
        y="488.18219"
        id="text90684"
        sodipodi:linespacing="521%"
@@ -596,13 +596,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan90686"
-         x="296.31937"
+         x="276.31937"
          y="488.18219"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Facebook</tspan></text>
     <use
        id="use90709"
        xlink:href="#google-plus"
-       transform="matrix(0.23789264,0,0,0.23789264,255.06937,534.06586)"
+       transform="matrix(0.23789264,0,0,0.23789264,235.06937,534.06586)"
        x="0"
        y="0"
        width="100%"
@@ -614,7 +614,7 @@
     <use
        id="use90731"
        xlink:href="#twitter"
-       transform="matrix(0.25,0,0,0.25,253.975,594.16219)"
+       transform="matrix(0.25,0,0,0.25,233.975,594.16219)"
        x="0"
        y="0"
        width="100%"
@@ -628,7 +628,7 @@
        id="rect90742"
        width="39"
        height="42"
-       x="243"
+       x="223"
        y="462.86212"
        ry="0.58059591"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -637,7 +637,7 @@
     <use
        id="use90755"
        xlink:href="#facebook"
-       transform="matrix(0.19586895,0,0,0.19586895,256.46962,476.81404)"
+       transform="matrix(0.19586895,0,0,0.19586895,236.46962,476.81404)"
        x="0"
        y="0"
        width="100%"
@@ -648,23 +648,9 @@
        inkscape:export-ydpi="90" />
     <image
        y="356.36218"
-       x="254"
+       x="234"
        id="image90880"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
-WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j
-NB7SsjQlJtFszMlCOpBSTUJBpHQZ1n1RFCR1EUF02U1DB/oBRVmXGXYiaiICzY5qOWIlleWhPJdz
-2LP3Xl3MbJnE92rx8b3v+taz1hLMky/QXAk0AY3A6lS5H7gLtIRDwd70fpky2eb7QDdwBvADLtO0
-XJGo7o/FjTPxeKLbF2huS/eItJ2fADvT0zMyNE4eaqRpXy1SQEfPTw6fu4U+Ofw0HArWAzhS5nvA
-rnTzbCTO9UvH2bNjHXrCoLf/B/2jBl1DYBmxVXmF/k1jX9tbROrM3XaYrfVVpbRcPsqbD185eOwK
-0VgclyeHZVW1WHqcid7nppAOv0wB+8+sFGxY6wXg6vXHKKVY5HYhjQjG32k0d7Y9/QGZos3/AQoh
-k2tdTwAqCUw6cLizsBJxu7VRm7sqIZDOTIoKcihckk1J4VIAqiu9KKUYmYgym1GEkA5i44OI5A6r
-hS/QrJRlkVtWg8Ody7XTAcpWZM0fiqlZg/pTj3DGxvnzrQelLIC48AVOqGxvNa7c5ST+TlCWb1Ll
-zaNuUwW1NeW0tLYzODzOy48j9H/5gRmZQsg5ZN2adGbi9OSRmJ1meuAtb74oXncqNE1SW1POg2fv
-efXuE1KKOQ5puiOFkCAElh5J4rcfkTPZaBomQrCQDOC2VKYBloXmWWyDwenU2L6lEsO0GJucQSyc
-8DAcCoY1y9CJjn0nq7iC8+cOk0mUlcVLqCgtorNrgKGRyYXMj8OhYEPyMwkxExkdQP/1ma3+QrZt
-XkNJUT7POvrYf+QilmXNH7tt49kLu+2C8AWaG4AbSqkcj8dNQX42kajO6O8pG1wC6ANagZvhULAP
-oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j NB7SsjQlJtFszMlCOpBSTUJBpHQZ1n1RFCR1EUF02U1DB/oBRVmXGXYiaiICzY5qOWIlleWhPJdz 2LP3Xl3MbJnE92rx8b3v+taz1hLMky/QXAk0AY3A6lS5H7gLtIRDwd70fpky2eb7QDdwBvADLtO0 XJGo7o/FjTPxeKLbF2huS/eItJ2fADvT0zMyNE4eaqRpXy1SQEfPTw6fu4U+Ofw0HArWAzhS5nvA rnTzbCTO9UvH2bNjHXrCoLf/B/2jBl1DYBmxVXmF/k1jX9tbROrM3XaYrfVVpbRcPsqbD185eOwK 0VgclyeHZVW1WHqcid7nppAOv0wB+8+sFGxY6wXg6vXHKKVY5HYhjQjG32k0d7Y9/QGZos3/AQoh k2tdTwAqCUw6cLizsBJxu7VRm7sqIZDOTIoKcihckk1J4VIAqiu9KKUYmYgym1GEkA5i44OI5A6r hS/QrJRlkVtWg8Ody7XTAcpWZM0fiqlZg/pTj3DGxvnzrQelLIC48AVOqGxvNa7c5ST+TlCWb1Ll zaNuUwW1NeW0tLYzODzOy48j9H/5gRmZQsg5ZN2adGbi9OSRmJ1meuAtb74oXncqNE1SW1POg2fv efXuE1KKOQ5puiOFkCAElh5J4rcfkTPZaBomQrCQDOC2VKYBloXmWWyDwenU2L6lEsO0GJucQSyc 8DAcCoY1y9CJjn0nq7iC8+cOk0mUlcVLqCgtorNrgKGRyYXMj8OhYEPyMwkxExkdQP/1ma3+QrZt XkNJUT7POvrYf+QilmXNH7tt49kLu+2C8AWaG4AbSqkcj8dNQX42kajO6O8pG1wC6ANagZvhULAP oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII= "
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="16"
@@ -702,7 +688,7 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="839.10522"
+       x="1139.1052"
        y="600.3418"
        id="text90907"
        sodipodi:linespacing="125%"
@@ -711,14 +697,14 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          id="tspan90909"
          sodipodi:role="line"
-         x="839.10522"
+         x="1139.1052"
          y="600.3418"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac">.btn-primary</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text90911"
        y="332.3418"
-       x="959.10522"
+       x="1259.1052"
        style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
@@ -726,13 +712,13 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac"
          y="332.3418"
-         x="959.10522"
+         x="1259.1052"
          sodipodi:role="line"
          id="tspan90913">.form-group</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="148.02222"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-111.97778"
        y="429.3418"
        id="text90915"
        sodipodi:linespacing="125%"
@@ -741,28 +727,28 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          id="tspan90917"
          sodipodi:role="line"
-         x="148.02222"
+         x="-111.97778"
          y="429.3418"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">social acct</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;">social acct</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text90919"
        y="490.3418"
-       x="148.02222"
-       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-111.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;"
          y="490.3418"
-         x="148.02222"
+         x="-111.97778"
          sodipodi:role="line"
          id="tspan90921">social acct</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="148.02222"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-111.97778"
        y="608.3418"
        id="text90923"
        sodipodi:linespacing="125%"
@@ -771,28 +757,28 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          id="tspan90925"
          sodipodi:role="line"
-         x="148.02222"
+         x="-111.97778"
          y="608.3418"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">social acct</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;">social acct</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text90927"
        y="547.3418"
-       x="148.02222"
-       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-111.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        xml:space="preserve"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;"
          y="547.3418"
-         x="148.02222"
+         x="-111.97778"
          sodipodi:role="line"
          id="tspan90929">social acct</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="159.24663"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-100.75337"
        y="370.3418"
        id="text90931"
        sodipodi:linespacing="125%"
@@ -801,9 +787,9 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"><tspan
          id="tspan90933"
          sodipodi:role="line"
-         x="159.24663"
+         x="-100.75337"
          y="370.3418"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">provider</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;">provider</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -1178,21 +1164,7 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        height="16"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
-WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j
-NB7SsjQlJtFszMlCOpBSTUJBpHQZ1n1RFCR1EUF02U1DB/oBRVmXGXYiaiICzY5qOWIlleWhPJdz
-2LP3Xl3MbJnE92rx8b3v+taz1hLMky/QXAk0AY3A6lS5H7gLtIRDwd70fpky2eb7QDdwBvADLtO0
-XJGo7o/FjTPxeKLbF2huS/eItJ2fADvT0zMyNE4eaqRpXy1SQEfPTw6fu4U+Ofw0HArWAzhS5nvA
-rnTzbCTO9UvH2bNjHXrCoLf/B/2jBl1DYBmxVXmF/k1jX9tbROrM3XaYrfVVpbRcPsqbD185eOwK
-0VgclyeHZVW1WHqcid7nppAOv0wB+8+sFGxY6wXg6vXHKKVY5HYhjQjG32k0d7Y9/QGZos3/AQoh
-k2tdTwAqCUw6cLizsBJxu7VRm7sqIZDOTIoKcihckk1J4VIAqiu9KKUYmYgym1GEkA5i44OI5A6r
-hS/QrJRlkVtWg8Ody7XTAcpWZM0fiqlZg/pTj3DGxvnzrQelLIC48AVOqGxvNa7c5ST+TlCWb1Ll
-zaNuUwW1NeW0tLYzODzOy48j9H/5gRmZQsg5ZN2adGbi9OSRmJ1meuAtb74oXncqNE1SW1POg2fv
-efXuE1KKOQ5puiOFkCAElh5J4rcfkTPZaBomQrCQDOC2VKYBloXmWWyDwenU2L6lEsO0GJucQSyc
-8DAcCoY1y9CJjn0nq7iC8+cOk0mUlcVLqCgtorNrgKGRyYXMj8OhYEPyMwkxExkdQP/1ma3+QrZt
-XkNJUT7POvrYf+QilmXNH7tt49kLu+2C8AWaG4AbSqkcj8dNQX42kajO6O8pG1wC6ANagZvhULAP
-oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j NB7SsjQlJtFszMlCOpBSTUJBpHQZ1n1RFCR1EUF02U1DB/oBRVmXGXYiaiICzY5qOWIlleWhPJdz 2LP3Xl3MbJnE92rx8b3v+taz1hLMky/QXAk0AY3A6lS5H7gLtIRDwd70fpky2eb7QDdwBvADLtO0 XJGo7o/FjTPxeKLbF2huS/eItJ2fADvT0zMyNE4eaqRpXy1SQEfPTw6fu4U+Ofw0HArWAzhS5nvA rnTzbCTO9UvH2bNjHXrCoLf/B/2jBl1DYBmxVXmF/k1jX9tbROrM3XaYrfVVpbRcPsqbD185eOwK 0VgclyeHZVW1WHqcid7nppAOv0wB+8+sFGxY6wXg6vXHKKVY5HYhjQjG32k0d7Y9/QGZos3/AQoh k2tdTwAqCUw6cLizsBJxu7VRm7sqIZDOTIoKcihckk1J4VIAqiu9KKUYmYgym1GEkA5i44OI5A6r hS/QrJRlkVtWg8Ody7XTAcpWZM0fiqlZg/pTj3DGxvnzrQelLIC48AVOqGxvNa7c5ST+TlCWb1Ll zaNuUwW1NeW0tLYzODzOy48j9H/5gRmZQsg5ZN2adGbi9OSRmJ1meuAtb74oXncqNE1SW1POg2fv efXuE1KKOQ5puiOFkCAElh5J4rcfkTPZaBomQrCQDOC2VKYBloXmWWyDwenU2L6lEsO0GJucQSyc 8DAcCoY1y9CJjn0nq7iC8+cOk0mUlcVLqCgtorNrgKGRyYXMj8OhYEPyMwkxExkdQP/1ma3+QrZt XkNJUT7POvrYf+QilmXNH7tt49kLu+2C8AWaG4AbSqkcj8dNQX42kajO6O8pG1wC6ANagZvhULAP oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII= "
        id="image173452"
        x="-766"
        y="336.36218" />
@@ -1354,13 +1326,13 @@ oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII=
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
-       ry="5"
-       y="520.86218"
-       x="580.5"
-       height="37"
-       width="343"
+       ry="5.0023966"
+       y="520.89648"
+       x="580.448"
+       height="37.017735"
+       width="275.22177"
        id="rect173494"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.89598018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
