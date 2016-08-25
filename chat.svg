@@ -1,0 +1,2711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   id="svg164134"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="chat.svg"
+   inkscape:export-filename="/home/duffy/SparkleShare/mockups/PNG/login_v2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs164136">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient244373">
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="0"
+         id="stop244375" />
+      <stop
+         style="stop-color:#dddddd;stop-opacity:1"
+         offset="1"
+         id="stop244377" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient244373"
+       id="linearGradient244379"
+       x1="398"
+       y1="308.36221"
+       x2="398"
+       y2="468.36221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.971537,0,0,0.37974683,0.971537,-88.357622)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath84002">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect84004"
+         width="413"
+         height="327"
+         x="305.5"
+         y="245.86212"
+         ry="4.5203538" />
+    </clipPath>
+    <symbol
+       id="github-square"
+       class="Brand-Icons">
+      <title
+         id="title9796">GitHub Square</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M394 184q-8 -9 -20 3q-13 11 -4 19q8 9 20 -3q12 -11 4 -19zM352 245q9 -12 0 -19q-8 -6 -17 7t0 18q9 7 17 -6zM291 305q-5 -7 -13 -2q-10 5 -7 12q3 5 13 2q10 -5 7 -12zM322 271q-6 -7 -16 3q-9 11 -2 16q6 6 16 -3q9 -11 2 -16zM451 159q-4 -12 -19 -6q-17 4 -13 15 t19 7q16 -5 13 -16zM514 154q0 -11 -16 -11q-17 -2 -17 11q0 11 16 11q17 2 17 -11zM572 164q2 -10 -14 -14t-18 8t14 15q16 2 18 -9zM1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-224q-16 0 -24.5 1t-19.5 5t-16 14.5t-5 27.5v239q0 97 -52 142q57 6 102.5 18t94 39 t81 66.5t53 105t20.5 150.5q0 121 -79 206q37 91 -8 204q-28 9 -81 -11t-92 -44l-38 -24q-93 26 -192 26t-192 -26q-16 11 -42.5 27t-83.5 38.5t-86 13.5q-44 -113 -7 -204q-79 -85 -79 -206q0 -85 20.5 -150t52.5 -105t80.5 -67t94 -39t102.5 -18q-40 -36 -49 -103 q-21 -10 -45 -15t-57 -5t-65.5 21.5t-55.5 62.5q-19 32 -48.5 52t-49.5 24l-20 3q-21 0 -29 -4.5t-5 -11.5t9 -14t13 -12l7 -5q22 -10 43.5 -38t31.5 -51l10 -23q13 -38 44 -61.5t67 -30t69.5 -7t55.5 3.5l23 4q0 -38 0.5 -103t0.5 -68q0 -22 -11 -33.5t-22 -13t-33 -1.5 h-224q-119 0 -203.5 84.5t-84.5 203.5v960q0 119 84.5 203.5t203.5 84.5h960q119 0 203.5 -84.5t84.5 -203.5z"
+         id="path9798" />
+    </symbol>
+    <symbol
+       id="github"
+       class="Brand-Icons">
+      <title
+         id="title9841">GitHub</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1536 640q0 -251 -146.5 -451.5t-378.5 -277.5q-27 -5 -39.5 7t-12.5 30v211q0 97 -52 142q57 6 102.5 18t94 39t81 66.5t53 105t20.5 150.5q0 121 -79 206q37 91 -8 204q-28 9 -81 -11t-92 -44l-38 -24q-93 26 -192 26t-192 -26q-16 11 -42.5 27t-83.5 38.5t-86 13.5 q-44 -113 -7 -204q-79 -85 -79 -206q0 -85 20.5 -150t52.5 -105t80.5 -67t94 -39t102.5 -18q-40 -36 -49 -103q-21 -10 -45 -15t-57 -5t-65.5 21.5t-55.5 62.5q-19 32 -48.5 52t-49.5 24l-20 3q-21 0 -29 -4.5t-5 -11.5t9 -14t13 -12l7 -5q22 -10 43.5 -38t31.5 -51l10 -23 q13 -38 44 -61.5t67 -30t69.5 -7t55.5 3.5l23 4q0 -38 0.5 -89t0.5 -54q0 -18 -13 -30t-40 -7q-232 77 -378.5 277.5t-146.5 451.5q0 209 103 385.5t279.5 279.5t385.5 103t385.5 -103t279.5 -279.5t103 -385.5z"
+         id="path9843" />
+    </symbol>
+    <symbol
+       id="facebook"
+       class="Brand-Icons">
+      <title
+         id="title9836">Facebook</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M959 1524v-264h-157q-86 0 -116 -36t-30 -108v-189h293l-39 -296h-254v-759h-306v759h-255v296h255v218q0 186 104 288.5t277 102.5q147 0 228 -12z"
+         id="path9838" />
+    </symbol>
+    <symbol
+       id="facebook-square"
+       class="Brand-Icons">
+      <title
+         id="title9721">Facebook Square</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1248 1408q119 0 203.5 -84.5t84.5 -203.5v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-188v595h199l30 232h-229v148q0 56 23.5 84t91.5 28l122 1v207q-63 9 -178 9q-136 0 -217.5 -80t-81.5 -226v-171h-200v-232h200v-595h-532q-119 0 -203.5 84.5t-84.5 203.5v960 q0 119 84.5 203.5t203.5 84.5h960z"
+         id="path9723" />
+    </symbol>
+    <symbol
+       id="google-plus-square"
+       class="Brand-Icons">
+      <title
+         id="title10046">Google Plus Square</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M829 318q0 -76 -58.5 -112.5t-139.5 -36.5q-41 0 -80.5 9.5t-75.5 28.5t-58 53t-22 78q0 46 25 80t65.5 51.5t82 25t84.5 7.5q20 0 31 -2q2 -1 23 -16.5t26 -19t23 -18t24.5 -22t19 -22.5t17 -26t9 -26.5t4.5 -31.5zM755 863q0 -60 -33 -99.5t-92 -39.5q-53 0 -93 42.5 t-57.5 96.5t-17.5 106q0 61 32 104t92 43q53 0 93.5 -45t58 -101t17.5 -107zM861 1120l88 64h-265q-85 0 -161 -32t-127.5 -98t-51.5 -153q0 -93 64.5 -154.5t158.5 -61.5q22 0 43 3q-13 -29 -13 -54q0 -44 40 -94q-175 -12 -257 -63q-47 -29 -75.5 -73t-28.5 -95 q0 -43 18.5 -77.5t48.5 -56.5t69 -37t77.5 -21t76.5 -6q60 0 120.5 15.5t113.5 46t86 82.5t33 117q0 49 -20 89.5t-49 66.5t-58 47.5t-49 44t-20 44.5t15.5 42.5t37.5 39.5t44 42t37.5 59.5t15.5 82.5q0 60 -22.5 99.5t-72.5 90.5h83zM1152 672h128v64h-128v128h-64v-128 h-128v-64h128v-160h64v160zM1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-960q-119 0 -203.5 84.5t-84.5 203.5v960q0 119 84.5 203.5t203.5 84.5h960q119 0 203.5 -84.5t84.5 -203.5z"
+         id="path10048" />
+    </symbol>
+    <symbol
+       id="twitter-square"
+       class="Brand-Icons">
+      <title
+         id="title9716">Twitter Square</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1280 926q-56 -25 -121 -34q68 40 93 117q-65 -38 -134 -51q-61 66 -153 66q-87 0 -148.5 -61.5t-61.5 -148.5q0 -29 5 -48q-129 7 -242 65t-192 155q-29 -50 -29 -106q0 -114 91 -175q-47 1 -100 26v-2q0 -75 50 -133.5t123 -72.5q-29 -8 -51 -8q-13 0 -39 4 q21 -63 74.5 -104t121.5 -42q-116 -90 -261 -90q-26 0 -50 3q148 -94 322 -94q112 0 210 35.5t168 95t120.5 137t75 162t24.5 168.5q0 18 -1 27q63 45 105 109zM1536 1120v-960q0 -119 -84.5 -203.5t-203.5 -84.5h-960q-119 0 -203.5 84.5t-84.5 203.5v960q0 119 84.5 203.5 t203.5 84.5h960q119 0 203.5 -84.5t84.5 -203.5z"
+         id="path9718" />
+    </symbol>
+    <symbol
+       id="twitter"
+       class="Brand-Icons">
+      <title
+         id="title9831">Twitter</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1620 1128q-67 -98 -162 -167q1 -14 1 -42q0 -130 -38 -259.5t-115.5 -248.5t-184.5 -210.5t-258 -146t-323 -54.5q-271 0 -496 145q35 -4 78 -4q225 0 401 138q-105 2 -188 64.5t-114 159.5q33 -5 61 -5q43 0 85 11q-112 23 -185.5 111.5t-73.5 205.5v4q68 -38 146 -41 q-66 44 -105 115t-39 154q0 88 44 163q121 -149 294.5 -238.5t371.5 -99.5q-8 38 -8 74q0 134 94.5 228.5t228.5 94.5q140 0 236 -102q109 21 205 78q-37 -115 -142 -178q93 10 186 50z"
+         id="path9833" />
+    </symbol>
+    <symbol
+       id="google-plus"
+       class="Brand-Icons">
+      <title
+         id="title10051">Google Plus</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M735 740q0 -36 32 -70.5t77.5 -68t90.5 -73.5t77 -104t32 -142q0 -90 -48 -173q-72 -122 -211 -179.5t-298 -57.5q-132 0 -246.5 41.5t-171.5 137.5q-37 60 -37 131q0 81 44.5 150t118.5 115q131 82 404 100q-32 42 -47.5 74t-15.5 73q0 36 21 85q-46 -4 -68 -4 q-148 0 -249.5 96.5t-101.5 244.5q0 82 36 159t99 131q77 66 182.5 98t217.5 32h418l-138 -88h-131q74 -63 112 -133t38 -160q0 -72 -24.5 -129.5t-59 -93t-69.5 -65t-59.5 -61.5t-24.5 -66zM589 836q38 0 78 16.5t66 43.5q53 57 53 159q0 58 -17 125t-48.5 129.5 t-84.5 103.5t-117 41q-42 0 -82.5 -19.5t-65.5 -52.5q-47 -59 -47 -160q0 -46 10 -97.5t31.5 -103t52 -92.5t75 -67t96.5 -26zM591 -37q58 0 111.5 13t99 39t73 73t27.5 109q0 25 -7 49t-14.5 42t-27 41.5t-29.5 35t-38.5 34.5t-36.5 29t-41.5 30t-36.5 26q-16 2 -48 2 q-53 0 -105 -7t-107.5 -25t-97 -46t-68.5 -74.5t-27 -105.5q0 -70 35 -123.5t91.5 -83t119 -44t127.5 -14.5zM1401 839h213v-108h-213v-219h-105v219h-212v108h212v217h105v-217z"
+         id="path10053" />
+    </symbol>
+    <symbol
+       id="github-alt"
+       class="Brand-Icons">
+      <title
+         id="title10341">GitHub Alt</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M640 320q0 -40 -12.5 -82t-43 -76t-72.5 -34t-72.5 34t-43 76t-12.5 82t12.5 82t43 76t72.5 34t72.5 -34t43 -76t12.5 -82zM1280 320q0 -40 -12.5 -82t-43 -76t-72.5 -34t-72.5 34t-43 76t-12.5 82t12.5 82t43 76t72.5 34t72.5 -34t43 -76t12.5 -82zM1440 320 q0 120 -69 204t-187 84q-41 0 -195 -21q-71 -11 -157 -11t-157 11q-152 21 -195 21q-118 0 -187 -84t-69 -204q0 -88 32 -153.5t81 -103t122 -60t140 -29.5t149 -7h168q82 0 149 7t140 29.5t122 60t81 103t32 153.5zM1664 496q0 -207 -61 -331q-38 -77 -105.5 -133t-141 -86 t-170 -47.5t-171.5 -22t-167 -4.5q-78 0 -142 3t-147.5 12.5t-152.5 30t-137 51.5t-121 81t-86 115q-62 123 -62 331q0 237 136 396q-27 82 -27 170q0 116 51 218q108 0 190 -39.5t189 -123.5q147 35 309 35q148 0 280 -32q105 82 187 121t189 39q51 -102 51 -218 q0 -87 -27 -168q136 -160 136 -398z"
+         id="path10343" />
+    </symbol>
+    <symbol
+       id="credit-card"
+       class="Web-Application-Icons Payment-Icons">
+      <title
+         id="title9851">credit-card</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1760 1408q66 0 113 -47t47 -113v-1216q0 -66 -47 -113t-113 -47h-1600q-66 0 -113 47t-47 113v1216q0 66 47 113t113 47h1600zM160 1280q-13 0 -22.5 -9.5t-9.5 -22.5v-224h1664v224q0 13 -9.5 22.5t-22.5 9.5h-1600zM1760 0q13 0 22.5 9.5t9.5 22.5v608h-1664v-608 q0 -13 9.5 -22.5t22.5 -9.5h1600zM256 128v128h256v-128h-256zM640 128v128h384v-128h-384z"
+         id="path9853" />
+    </symbol>
+    <symbol
+       id="facebook-official"
+       class="Brand-Icons">
+      <title
+         id="title11651">Facebook Official</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1451 1408q35 0 60 -25t25 -60v-1366q0 -35 -25 -60t-60 -25h-391v595h199l30 232h-229v148q0 56 23.5 84t91.5 28l122 1v207q-63 9 -178 9q-136 0 -217.5 -80t-81.5 -226v-171h-200v-232h200v-595h-735q-35 0 -60 25t-25 60v1366q0 35 25 60t60 25h1366z"
+         id="path11653" />
+    </symbol>
+    <symbol
+       id="user"
+       class="Web-Application-Icons">
+      <title
+         id="title9146">User</title>
+      <path
+         transform="matrix(0.05,0,0,-0.05,0,76.8)"
+         d="M1408 131q0 -120 -73 -189.5t-194 -69.5h-874q-121 0 -194 69.5t-73 189.5q0 53 3.5 103.5t14 109t26.5 108.5t43 97.5t62 81t85.5 53.5t111.5 20q9 0 42 -21.5t74.5 -48t108 -48t133.5 -21.5t133.5 21.5t108 48t74.5 48t42 21.5q61 0 111.5 -20t85.5 -53.5t62 -81 t43 -97.5t26.5 -108.5t14 -109t3.5 -103.5zM1088 1024q0 -159 -112.5 -271.5t-271.5 -112.5t-271.5 112.5t-112.5 271.5t112.5 271.5t271.5 112.5t271.5 -112.5t112.5 -271.5z"
+         id="path9148" />
+    </symbol>
+    <linearGradient
+       id="linearGradient3848">
+      <stop
+         offset="0"
+         style="stop-color:#0032a6"
+         id="stop3850" />
+      <stop
+         offset="1"
+         style="stop-color:#000080"
+         id="stop3852" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="758.26658"
+     inkscape:cy="515.56892"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="-100,1014"
+       orientation="0,1"
+       id="guide244381"
+       inkscape:label="Padding (10px)"
+       inkscape:color="rgb(115,162,200)" />
+    <sodipodi:guide
+       position="355,989"
+       orientation="0,1"
+       id="guide244383"
+       inkscape:label="Padding (10px)"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-100,864"
+       orientation="0,1"
+       id="guide244389"
+       inkscape:label="3rem padding"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="511,1097"
+       orientation="1,0"
+       id="guide83842"
+       inkscape:label="Center"
+       inkscape:color="rgb(250,250,250)" />
+    <sodipodi:guide
+       position="780,829"
+       orientation="1,0"
+       id="guide11590" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata164139">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362192)">
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       y="72.36219"
+       x="763"
+       height="980"
+       width="261"
+       id="rect11342"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient244379);fill-opacity:1;stroke:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect244371"
+       width="1024"
+       height="60"
+       x="0"
+       y="28.36219"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text244391"
+       y="286.18219"
+       x="1349.9038"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="286.18219"
+         x="1349.9038"
+         id="tspan244393"
+         sodipodi:role="line">Use an existing account </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1712.3193"
+       y="366.18219"
+       id="text83854"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan83856"
+         x="1712.3193"
+         y="366.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1">Full name</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text83860"
+       y="426.18213"
+       x="1712.3193"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
+         y="426.18213"
+         x="1712.3193"
+         id="tspan83862"
+         sodipodi:role="line">Email</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.89598018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect83864"
+       width="275.22177"
+       height="37.017735"
+       x="1700.448"
+       y="460.86771"
+       ry="5.0023966"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1712.3193"
+       y="486.18213"
+       id="text83866"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan83868"
+         x="1712.3193"
+         y="486.18213"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1">Password</tspan></text>
+    <rect
+       y="584.86218"
+       x="1700.5"
+       height="37"
+       width="167"
+       id="rect83870"
+       style="opacity:1;fill:#3071a9;fill-opacity:1;stroke:#2d6ca2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="6"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="5.0023966"
+       y="400.83893"
+       x="1700.448"
+       height="37.017735"
+       width="275.22177"
+       id="rect83900"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.89598018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.89598018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect83902"
+       width="275.22177"
+       height="37.017735"
+       x="1700.448"
+       y="340.81018"
+       ry="5.0023966"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="521%"
+       id="text83984"
+       y="610.18213"
+       x="1716.3193"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1"
+         y="610.18213"
+         x="1716.3193"
+         sodipodi:role="line"
+         id="tspan83992">Create Account</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text83848"
+       y="285.17505"
+       x="1831.8567"
+       style="font-style:normal;font-weight:normal;font-size:45.40675735px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle"
+         y="285.17505"
+         x="1831.8567"
+         id="tspan83850"
+         sodipodi:role="line">Create a Waartaa account</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect84010"
+       width="199"
+       height="42"
+       x="1342.5"
+       y="342.86212"
+       ry="0.58059591"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect90690"
+       width="39"
+       height="42"
+       x="1343"
+       y="402.86212"
+       ry="0.58059591"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       id="use85681"
+       xlink:href="#github"
+       transform="matrix(0.24220161,0,0,0.24220161,1353.6,413.23873)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#e77676;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect90692"
+       width="39"
+       height="42"
+       x="1345"
+       y="522.86212"
+       ry="0.58059591"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="0.58059591"
+       y="582.86212"
+       x="1345"
+       height="42"
+       width="39"
+       id="rect90694"
+       style="opacity:1;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="0.58059591"
+       y="522.86212"
+       x="1344.5"
+       height="42"
+       width="199"
+       id="rect85914"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="0.58059591"
+       y="402.86212"
+       x="1342.5"
+       height="42"
+       width="199"
+       id="rect85916"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect85918"
+       width="199"
+       height="42"
+       x="1344.5"
+       y="582.86212"
+       ry="0.58059591"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="0.58059591"
+       y="342.86212"
+       x="1343"
+       height="42"
+       width="39"
+       id="rect90688"
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="0.58059591"
+       y="462.86212"
+       x="1342.5"
+       height="42"
+       width="199"
+       id="rect90666"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1397.3193"
+       y="368.18219"
+       id="text90668"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan90670"
+         x="1397.3193"
+         y="368.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Fedora</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text90672"
+       y="428.18219"
+       x="1397.3193"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="428.18219"
+         x="1397.3193"
+         id="tspan90674"
+         sodipodi:role="line">Log in with GitHub</tspan></text>
+    <text
+       sodipodi:linespacing="521%"
+       id="text90676"
+       y="548.18219"
+       x="1403.3193"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="548.18219"
+         x="1403.3193"
+         id="tspan90678"
+         sodipodi:role="line">Log in with Google</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1403.3193"
+       y="608.18219"
+       id="text90680"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan90682"
+         x="1403.3193"
+         y="608.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Twitter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1396.3193"
+       y="488.18219"
+       id="text90684"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan90686"
+         x="1396.3193"
+         y="488.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Facebook</tspan></text>
+    <use
+       id="use90709"
+       xlink:href="#google-plus"
+       transform="matrix(0.23789264,0,0,0.23789264,1355.0694,534.06586)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       id="use90731"
+       xlink:href="#twitter"
+       transform="matrix(0.25,0,0,0.25,1353.975,594.16219)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#7290ba;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect90742"
+       width="39"
+       height="42"
+       x="1343"
+       y="462.86212"
+       ry="0.58059591"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       id="use90755"
+       xlink:href="#facebook"
+       transform="matrix(0.19586895,0,0,0.19586895,1356.4696,476.81404)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       style="fill:#ffffff"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       y="356.36218"
+       x="1354"
+       id="image90880"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j NB7SsjQlJtFszMlCOpBSTUJBpHQZ1n1RFCR1EUF02U1DB/oBRVmXGXYiaiICzY5qOWIlleWhPJdz 2LP3Xl3MbJnE92rx8b3v+taz1hLMky/QXAk0AY3A6lS5H7gLtIRDwd70fpky2eb7QDdwBvADLtO0 XJGo7o/FjTPxeKLbF2huS/eItJ2fADvT0zMyNE4eaqRpXy1SQEfPTw6fu4U+Ofw0HArWAzhS5nvA rnTzbCTO9UvH2bNjHXrCoLf/B/2jBl1DYBmxVXmF/k1jX9tbROrM3XaYrfVVpbRcPsqbD185eOwK 0VgclyeHZVW1WHqcid7nppAOv0wB+8+sFGxY6wXg6vXHKKVY5HYhjQjG32k0d7Y9/QGZos3/AQoh k2tdTwAqCUw6cLizsBJxu7VRm7sqIZDOTIoKcihckk1J4VIAqiu9KKUYmYgym1GEkA5i44OI5A6r hS/QrJRlkVtWg8Ody7XTAcpWZM0fiqlZg/pTj3DGxvnzrQelLIC48AVOqGxvNa7c5ST+TlCWb1Ll zaNuUwW1NeW0tLYzODzOy48j9H/5gRmZQsg5ZN2adGbi9OSRmJ1meuAtb74oXncqNE1SW1POg2fv efXuE1KKOQ5puiOFkCAElh5J4rcfkTPZaBomQrCQDOC2VKYBloXmWWyDwenU2L6lEsO0GJucQSyc 8DAcCoY1y9CJjn0nq7iC8+cOk0mUlcVLqCgtorNrgKGRyYXMj8OhYEPyMwkxExkdQP/1ma3+QrZt XkNJUT7POvrYf+QilmXNH7tt49kLu+2C8AWaG4AbSqkcj8dNQX42kajO6O8pG1wC6ANagZvhULAP oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII= "
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="16"
+       width="16"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:43.78653336px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1629.9955"
+       y="208.76259"
+       id="text90895"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan90897"
+         x="1629.9955"
+         y="208.76259"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24.62992477px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle">Start using waartaa today.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="311.70923"
+       y="833.3418"
+       id="text90899"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan90901"
+         sodipodi:role="line"
+         x="311.70923"
+         y="833.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1139.1052"
+       y="600.3418"
+       id="text90907"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan90909"
+         sodipodi:role="line"
+         x="1139.1052"
+         y="600.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac">.btn-primary</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text90911"
+       y="332.3418"
+       x="1259.1052"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac"
+         y="332.3418"
+         x="1259.1052"
+         sodipodi:role="line"
+         id="tspan90913">.form-group</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-111.97778"
+       y="429.3418"
+       id="text90915"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan90917"
+         sodipodi:role="line"
+         x="-111.97778"
+         y="429.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;">social acct</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text90919"
+       y="490.3418"
+       x="-111.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;"
+         y="490.3418"
+         x="-111.97778"
+         sodipodi:role="line"
+         id="tspan90921">social acct</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-111.97778"
+       y="608.3418"
+       id="text90923"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan90925"
+         sodipodi:role="line"
+         x="-111.97778"
+         y="608.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;">social acct</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text90927"
+       y="547.3418"
+       x="-111.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;"
+         y="547.3418"
+         x="-111.97778"
+         sodipodi:role="line"
+         id="tspan90929">social acct</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-100.75337"
+       y="370.3418"
+       id="text90931"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         id="tspan90933"
+         sodipodi:role="line"
+         x="-100.75337"
+         y="370.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#8c8c8c;">provider</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-670.09607"
+       y="286.18219"
+       id="text173372"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173374"
+         x="-670.09607"
+         y="286.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Use an existing account </tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173376"
+       y="664.18219"
+       x="-727.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
+         y="664.18219"
+         x="-727.68066"
+         id="tspan173378"
+         sodipodi:role="line">Full name</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-727.68066"
+       y="724.18213"
+       id="text173380"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173382"
+         x="-727.68066"
+         y="724.18213"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1">Email</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="5"
+       y="758.86218"
+       x="-739.5"
+       height="37"
+       width="343"
+       id="rect173384"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173386"
+       y="784.18213"
+       x="-727.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
+         y="784.18213"
+         x="-727.68066"
+         id="tspan173388"
+         sodipodi:role="line">Password</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="6"
+       style="opacity:1;fill:#3071a9;fill-opacity:1;stroke:#2d6ca2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173390"
+       width="167"
+       height="37"
+       x="-739.5"
+       y="818.86218" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173392"
+       width="343"
+       height="37"
+       x="-739.5"
+       y="698.86218"
+       ry="5" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="5"
+       y="638.86218"
+       x="-739.5"
+       height="37"
+       width="343"
+       id="rect173394"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-723.68066"
+       y="844.18213"
+       id="text173396"
+       sodipodi:linespacing="521%"><tspan
+         id="tspan173398"
+         sodipodi:role="line"
+         x="-723.68066"
+         y="844.18213"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1">Create Account</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:45.40675735px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-568.14331"
+       y="611.17505"
+       id="text173400"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173402"
+         x="-568.14331"
+         y="611.17505"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle">Create a Waartaa account</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="322.86212"
+       x="-777.5"
+       height="42"
+       width="199"
+       id="rect173404"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="382.86212"
+       x="-777"
+       height="42"
+       width="39"
+       id="rect173406"
+       style="opacity:1;fill:#e7e8e9;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <use
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.24220161,0,0,0.24220161,-766.4,393.23873)"
+       xlink:href="#github"
+       id="use173408" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="322.86212"
+       x="-555"
+       height="42"
+       width="39"
+       id="rect173410"
+       style="opacity:1;fill:#e77676;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:#0093d9;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173412"
+       width="39"
+       height="42"
+       x="-555"
+       y="382.86212"
+       ry="0.58059591" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173414"
+       width="199"
+       height="42"
+       x="-555.5"
+       y="322.86212"
+       ry="0.58059591" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173416"
+       width="199"
+       height="42"
+       x="-777.5"
+       y="382.86212"
+       ry="0.58059591" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="382.86212"
+       x="-555.5"
+       height="42"
+       width="199"
+       id="rect173418"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173420"
+       width="39"
+       height="42"
+       x="-777"
+       y="322.86212"
+       ry="0.58059591" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect173422"
+       width="199"
+       height="42"
+       x="-667.5"
+       y="442.86212"
+       ry="0.58059591" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173424"
+       y="348.18219"
+       x="-722.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="348.18219"
+         x="-722.68066"
+         id="tspan173426"
+         sodipodi:role="line">Log in with Fedora</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-722.68066"
+       y="408.18219"
+       id="text173428"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173430"
+         x="-722.68066"
+         y="408.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with GitHub</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-496.68066"
+       y="348.18219"
+       id="text173432"
+       sodipodi:linespacing="521%"><tspan
+         sodipodi:role="line"
+         id="tspan173434"
+         x="-496.68066"
+         y="348.18219"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'">Log in with Google</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173436"
+       y="408.18219"
+       x="-496.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="408.18219"
+         x="-496.68066"
+         id="tspan173438"
+         sodipodi:role="line">Log in with Twitter</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173440"
+       y="468.18219"
+       x="-613.68066"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="468.18219"
+         x="-613.68066"
+         id="tspan173442"
+         sodipodi:role="line">Log in with Facebook</tspan></text>
+    <use
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="fill:#ffffff"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.23789264,0,0,0.23789264,-544.93063,334.06586)"
+       xlink:href="#google-plus"
+       id="use173444" />
+    <use
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="fill:#ffffff"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.25,0,0,0.25,-546.025,394.16219)"
+       xlink:href="#twitter"
+       id="use173446" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="0.58059591"
+       y="442.86212"
+       x="-667"
+       height="42"
+       width="39"
+       id="rect173448"
+       style="opacity:1;fill:#7290ba;fill-opacity:1;stroke:none;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <use
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       style="fill:#ffffff"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.19586895,0,0,0.19586895,-653.53038,456.81404)"
+       xlink:href="#facebook"
+       id="use173450" />
+    <image
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       width="16"
+       height="16"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QoeDjkF7HLJYwAAAo9JREFUOMttk1tLVFEYhp+1Zo/j NB7SsjQlJtFszMlCOpBSTUJBpHQZ1n1RFCR1EUF02U1DB/oBRVmXGXYiaiICzY5qOWIlleWhPJdz 2LP3Xl3MbJnE92rx8b3v+taz1hLMky/QXAk0AY3A6lS5H7gLtIRDwd70fpky2eb7QDdwBvADLtO0 XJGo7o/FjTPxeKLbF2huS/eItJ2fADvT0zMyNE4eaqRpXy1SQEfPTw6fu4U+Ofw0HArWAzhS5nvA rnTzbCTO9UvH2bNjHXrCoLf/B/2jBl1DYBmxVXmF/k1jX9tbROrM3XaYrfVVpbRcPsqbD185eOwK 0VgclyeHZVW1WHqcid7nppAOv0wB+8+sFGxY6wXg6vXHKKVY5HYhjQjG32k0d7Y9/QGZos3/AQoh k2tdTwAqCUw6cLizsBJxu7VRm7sqIZDOTIoKcihckk1J4VIAqiu9KKUYmYgym1GEkA5i44OI5A6r hS/QrJRlkVtWg8Ody7XTAcpWZM0fiqlZg/pTj3DGxvnzrQelLIC48AVOqGxvNa7c5ST+TlCWb1Ll zaNuUwW1NeW0tLYzODzOy48j9H/5gRmZQsg5ZN2adGbi9OSRmJ1meuAtb74oXncqNE1SW1POg2fv efXuE1KKOQ5puiOFkCAElh5J4rcfkTPZaBomQrCQDOC2VKYBloXmWWyDwenU2L6lEsO0GJucQSyc 8DAcCoY1y9CJjn0nq7iC8+cOk0mUlcVLqCgtorNrgKGRyYXMj8OhYEPyMwkxExkdQP/1ma3+QrZt XkNJUT7POvrYf+QilmXNH7tt49kLu+2C8AWaG4AbSqkcj8dNQX42kajO6O8pG1wC6ANagZvhULAP oO54Gy8u7+UfzxUAVYlccwUAAAAASUVORK5CYII= "
+       id="image173452"
+       x="-766"
+       y="336.36218" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:connector-curvature="0"
+       id="path173454"
+       d="m -824.5,549.86219 513,0"
+       style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="5"
+       y="533.36218"
+       x="-589"
+       height="31"
+       width="42"
+       id="rect173456"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173458"
+       y="555.19067"
+       x="-579.05231"
+       style="font-style:normal;font-weight:normal;font-size:33.51570511px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66312027px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+         y="555.19067"
+         x="-579.05231"
+         id="tspan173460"
+         sodipodi:role="line">OR</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173462"
+       y="208.76259"
+       x="-570.00452"
+       style="font-style:normal;font-weight:normal;font-size:43.78653336px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24.62992477px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle"
+         y="208.76259"
+         x="-570.00452"
+         id="tspan173464"
+         sodipodi:role="line">Start using waartaa today.</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="125%"
+       id="text173466"
+       y="834.3418"
+       x="-780.89478"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac"
+         y="834.3418"
+         x="-780.89478"
+         sodipodi:role="line"
+         id="tspan173468">.btn-primary</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-780.89478"
+       y="630.3418"
+       id="text173470"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan173472"
+         sodipodi:role="line"
+         x="-780.89478"
+         y="630.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#a7a9ac">.form-group</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="125%"
+       id="text173474"
+       y="409.3418"
+       x="-871.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
+         y="409.3418"
+         x="-871.97778"
+         sodipodi:role="line"
+         id="tspan173476">social acct</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-745.97778"
+       y="470.3418"
+       id="text173478"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan173480"
+         sodipodi:role="line"
+         x="-745.97778"
+         y="470.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">social acct</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="125%"
+       id="text173482"
+       y="408.3418"
+       x="-326.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
+         y="408.3418"
+         x="-326.97778"
+         sodipodi:role="line"
+         id="tspan173484">social acct</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-327.97778"
+       y="347.3418"
+       id="text173486"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan173488"
+         sodipodi:role="line"
+         x="-327.97778"
+         y="347.3418"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac">social acct</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="125%"
+       id="text173490"
+       y="350.3418"
+       x="-865.97778"
+       style="font-style:normal;font-weight:normal;font-size:25.0893116px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a7a9ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.97657299px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#a7a9ac"
+         y="350.3418"
+         x="-865.97778"
+         sodipodi:role="line"
+         id="tspan173492">provider</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       ry="5.0023966"
+       y="520.89648"
+       x="1700.448"
+       height="37.017735"
+       width="275.22177"
+       id="rect173494"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.89598018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text173496"
+       y="546.18213"
+       x="1712.3193"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#a3a6a7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#a3a6a7;fill-opacity:1"
+         y="546.18213"
+         x="1712.3193"
+         id="tspan173498"
+         sodipodi:role="line">Password repeat</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#eeeeee;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1631,633.3622 0,-375"
+       id="path173502"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g173506"
+       transform="translate(1120,0)">
+      <circle
+         r="24"
+         cy="442.36218"
+         cx="512"
+         id="path173500"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#eeeeee;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+         sodipodi:linespacing="521%"
+         id="text90891"
+         y="449.19067"
+         x="500.94775"
+         style="font-style:normal;font-weight:normal;font-size:33.51570511px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66312027px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light'"
+           y="449.19067"
+           x="500.94775"
+           id="tspan90893"
+           sodipodi:role="line">OR</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text11118"
+       y="61.098083"
+       x="437.0654"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#58595b"
+         y="61.098083"
+         x="437.0654"
+         id="tspan11120"
+         sodipodi:role="line">#fedora</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="297.05826"
+       y="78.186394"
+       id="text11122"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11124"
+         x="297.05826"
+         y="78.186394"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:13.75px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#58595b">..:: Fedora Design ::.. | Time to start thinking about F25 artwork :)</tspan></text>
+    <image
+       y="288.08112"
+       x="773.75708"
+       id="image11457"
+       xlink:href="data:image/png;base64,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
+7wWAGzIAAAAASUVORK5CYII=
+"
+       preserveAspectRatio="none"
+       height="51.163841"
+       width="56.759888" />
+    <g
+       id="g11566"
+       transform="translate(-20,-102)">
+      <ellipse
+         ry="25.5"
+         rx="24.5"
+         cy="531.86218"
+         cx="825.5"
+         id="path11548"
+         style="opacity:1;fill:#a07cbc;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text11550"
+         y="542.72473"
+         x="814"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1"
+           y="542.72473"
+           x="814"
+           id="tspan11552"
+           sodipodi:role="line">A</tspan></text>
+    </g>
+    <image
+       y="341.24496"
+       x="775.75708"
+       id="image11468"
+       xlink:href="data:image/png;base64,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
+PJ9nkv8NAwNEa2CFpFYAAAAASUVORK5CYII=
+"
+       preserveAspectRatio="none"
+       height="56.759888"
+       width="54.361584" />
+    <image
+       y="520.35938"
+       x="774.74011"
+       id="image11490"
+       xlink:href="data:image/png;base64,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
+/xeTVUp0g97ZggAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="53.562145"
+       width="56.759888" />
+    <image
+       y="462.35229"
+       x="776.42371"
+       id="image11523"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="55.161018"
+       width="58.358757" />
+    <image
+       y="228.33676"
+       x="777.5"
+       id="image11534"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="53.562145"
+       width="51.963276" />
+    <image
+       y="636.89893"
+       x="774.46326"
+       id="image11545"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="51.963276"
+       width="58.358757"
+       style="opacity:0.5" />
+    <g
+       id="g11580"
+       transform="translate(-20,14)"
+       style="opacity:0.5">
+      <ellipse
+         style="opacity:1;fill:#3c6eb4;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse11554"
+         cx="825.5"
+         cy="591.86218"
+         rx="24.5"
+         ry="25.5" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="816"
+         y="604.72473"
+         id="text11556"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11558"
+           x="816"
+           y="604.72473"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1">F</tspan></text>
+    </g>
+    <g
+       id="g11585"
+       transform="translate(-20,-458)">
+      <ellipse
+         ry="25.5"
+         rx="24.5"
+         cy="651.86218"
+         cx="825.5"
+         id="ellipse11560"
+         style="opacity:1;fill:#e59728;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text11562"
+         y="663.72473"
+         x="815"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1"
+           y="663.72473"
+           x="815"
+           id="tspan11564"
+           sodipodi:role="line">S</tspan></text>
+    </g>
+    <g
+       id="g11596"
+       transform="translate(0,44)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11592"
+         d="m 1013,82.362192 -15,15"
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#8c8c8c;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 998,82.362192 15,15"
+         id="path11594"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g11703">
+      <circle
+         r="8.5"
+         cy="177.8622"
+         cx="824.5"
+         id="path11600"
+         style="opacity:1;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="817"
+         y="195.72473"
+         id="text11606"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11608"
+           x="817"
+           y="195.72473"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1">*</tspan></text>
+      <circle
+         style="opacity:1;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11613"
+         cx="824.5"
+         cy="237.8622"
+         r="8.5" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text11615"
+         y="255.72473"
+         x="817"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1"
+           y="255.72473"
+           x="817"
+           id="tspan11617"
+           sodipodi:role="line">*</tspan></text>
+      <circle
+         r="8.5"
+         cy="297.86218"
+         cx="824.5"
+         id="circle11619"
+         style="opacity:1;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="817"
+         y="315.72473"
+         id="text11621"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11623"
+           x="817"
+           y="315.72473"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1">*</tspan></text>
+      <circle
+         style="opacity:1;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle11625"
+         cx="824.5"
+         cy="357.86218"
+         r="8.5" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text11627"
+         y="375.72473"
+         x="817"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1"
+           y="375.72473"
+           x="817"
+           id="tspan11629"
+           sodipodi:role="line">*</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="843.06543"
+       y="197.09808"
+       id="text11667"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11669"
+         x="843.06543"
+         y="197.09808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#58595b">spiderman</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text11671"
+       y="259.09808"
+       x="843.06543"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#58595b"
+         y="259.09808"
+         x="843.06543"
+         id="tspan11673"
+         sodipodi:role="line">joelk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="843.06543"
+       y="319.09808"
+       id="text11675"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11677"
+         x="843.06543"
+         y="319.09808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#58595b">wats0n</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text11679"
+       y="379.09808"
+       x="843.06543"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#58595b"
+         y="379.09808"
+         x="843.06543"
+         id="tspan11681"
+         sodipodi:role="line">sammy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="843.06543"
+       y="435.09808"
+       id="text11683"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11685"
+         x="843.06543"
+         y="435.09808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#58595b">aviator32</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text11687"
+       y="495.09808"
+       x="843.06543"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#58595b"
+         y="495.09808"
+         x="843.06543"
+         id="tspan11689"
+         sodipodi:role="line">j3nn13</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="843.06543"
+       y="553.09808"
+       id="text11691"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11693"
+         x="843.06543"
+         y="553.09808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#58595b">pdawson</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text11695"
+       y="613.09808"
+       x="843.06543"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#c6c6c6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#c6c6c6;fill-opacity:1;"
+         y="613.09808"
+         x="843.06543"
+         id="tspan11697"
+         sodipodi:role="line">fomu-yum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#c6c6c6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="843.06543"
+       y="673.09808"
+       id="text11699"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan11701"
+         x="843.06543"
+         y="673.09808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#c6c6c6;fill-opacity:1;">gladiat0r</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aba315;fill-opacity:1"
+       d="m 1168.1595,164.56779 c -0.7614,0.43962 -1.0223,1.41328 -0.5827,2.17472 0.3692,0.63943 1.1148,0.92293 1.7952,0.73801 l 0.8856,7.01744 -5.9747,-2.37177 c 0.1221,-0.4058 0.085,-0.85847 -0.1434,-1.25446 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58272 -0.7615,0.43963 -1.0224,1.41328 -0.5827,2.17473 0.4396,0.76144 1.4132,1.02233 2.1747,0.58271 0.04,-0.0232 0.078,-0.0502 0.1156,-0.076 l 1.7674,5.94664 -4.8033,-0.45344 c 0.062,-0.35524 0.01,-0.73302 -0.1868,-1.06979 -0.4396,-0.76144 -1.4133,-1.02233 -2.1747,-0.58272 -0.7614,0.43962 -1.0223,1.41329 -0.5827,2.17473 0.4396,0.76144 1.4133,1.02234 2.1747,0.58271 0.2061,-0.11898 0.3748,-0.27748 0.5036,-0.4599 l 4.7681,3.93017 20.4939,-11.83216 -0.631,-5.66439 c 0.1924,-0.0286 0.3818,-0.0927 0.5604,-0.19586 0.7614,-0.43962 1.0223,-1.41327 0.5827,-2.17472 -0.4396,-0.76144 -1.4133,-1.02234 -2.1747,-0.58272 -0.7615,0.43963 -1.0224,1.41329 -0.5828,2.17472 0.1638,0.28361 0.4011,0.49752 0.6744,0.63191 l -1.7431,3.55328 -4.2592,-3.99417 c 0.6024,-0.4834 0.7812,-1.34437 0.3831,-2.03396 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58271 -0.7615,0.43961 -1.0224,1.41327 -0.5827,2.17472 0.2426,0.42037 0.6485,0.68626 1.0912,0.7679 l -0.7985,5.84189 -5.7845,-4.17627 c 0.4008,-0.49725 0.4796,-1.20897 0.1411,-1.79527 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58272 z m -3.4951,17.82643 1.9922,3.45053 20.5276,-11.85161 -1.9922,-3.45053 z"
+       id="path3787"
+       sodipodi:nodetypes="cscccsssscccssssccccsssscccssscccsccccccc" />
+    <path
+       sodipodi:nodetypes="cscccsssscccssssccccsssscccssscccsccccccc"
+       id="path12224"
+       d="m 1168.1595,224.56779 c -0.7614,0.43962 -1.0223,1.41328 -0.5827,2.17472 0.3692,0.63943 1.1148,0.92293 1.7952,0.73801 l 0.8856,7.01744 -5.9747,-2.37177 c 0.1221,-0.4058 0.085,-0.85847 -0.1434,-1.25446 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58272 -0.7615,0.43963 -1.0224,1.41328 -0.5827,2.17473 0.4396,0.76144 1.4132,1.02233 2.1747,0.58271 0.04,-0.0232 0.078,-0.0502 0.1156,-0.076 l 1.7674,5.94664 -4.8033,-0.45344 c 0.062,-0.35524 0.01,-0.73302 -0.1868,-1.06979 -0.4396,-0.76144 -1.4133,-1.02233 -2.1747,-0.58272 -0.7614,0.43962 -1.0223,1.41329 -0.5827,2.17473 0.4396,0.76144 1.4133,1.02234 2.1747,0.58271 0.2061,-0.11898 0.3748,-0.27748 0.5036,-0.4599 l 4.7681,3.93017 20.4939,-11.83216 -0.631,-5.66439 c 0.1924,-0.0286 0.3818,-0.0927 0.5604,-0.19586 0.7614,-0.43962 1.0223,-1.41327 0.5827,-2.17472 -0.4396,-0.76144 -1.4133,-1.02234 -2.1747,-0.58272 -0.7615,0.43963 -1.0224,1.41329 -0.5828,2.17472 0.1638,0.28361 0.4011,0.49752 0.6744,0.63191 l -1.7431,3.55328 -4.2592,-3.99417 c 0.6024,-0.4834 0.7812,-1.34437 0.3831,-2.03396 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58271 -0.7615,0.43961 -1.0224,1.41327 -0.5827,2.17472 0.2426,0.42037 0.6485,0.68626 1.0912,0.7679 l -0.7985,5.84189 -5.7845,-4.17627 c 0.4008,-0.49725 0.4796,-1.20897 0.1411,-1.79527 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58272 z m -3.4951,17.82643 1.9922,3.45053 20.5276,-11.85161 -1.9922,-3.45053 z"
+       style="fill:#aba315;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aba315;fill-opacity:1"
+       d="m 1168.1595,284.56779 c -0.7614,0.43962 -1.0223,1.41328 -0.5827,2.17472 0.3692,0.63943 1.1148,0.92293 1.7952,0.73801 l 0.8856,7.01744 -5.9747,-2.37177 c 0.1221,-0.4058 0.085,-0.85847 -0.1434,-1.25446 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58272 -0.7615,0.43963 -1.0224,1.41328 -0.5827,2.17473 0.4396,0.76144 1.4132,1.02233 2.1747,0.58271 0.04,-0.0232 0.078,-0.0502 0.1156,-0.076 l 1.7674,5.94664 -4.8033,-0.45344 c 0.062,-0.35524 0.01,-0.73302 -0.1868,-1.06979 -0.4396,-0.76144 -1.4133,-1.02233 -2.1747,-0.58272 -0.7614,0.43962 -1.0223,1.41329 -0.5827,2.17473 0.4396,0.76144 1.4133,1.02234 2.1747,0.58271 0.2061,-0.11898 0.3748,-0.27748 0.5036,-0.4599 l 4.7681,3.93017 20.4939,-11.83216 -0.631,-5.66439 c 0.1924,-0.0286 0.3818,-0.0927 0.5604,-0.19586 0.7614,-0.43962 1.0223,-1.41327 0.5827,-2.17472 -0.4396,-0.76144 -1.4133,-1.02234 -2.1747,-0.58272 -0.7615,0.43963 -1.0224,1.41329 -0.5828,2.17472 0.1638,0.28361 0.4011,0.49752 0.6744,0.63191 l -1.7431,3.55328 -4.2592,-3.99417 c 0.6024,-0.4834 0.7812,-1.34437 0.3831,-2.03396 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58271 -0.7615,0.43961 -1.0224,1.41327 -0.5827,2.17472 0.2426,0.42037 0.6485,0.68626 1.0912,0.7679 l -0.7985,5.84189 -5.7845,-4.17627 c 0.4008,-0.49725 0.4796,-1.20897 0.1411,-1.79527 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58272 z m -3.4951,17.82643 1.9922,3.45053 20.5276,-11.85161 -1.9922,-3.45053 z"
+       id="path12226"
+       sodipodi:nodetypes="cscccsssscccssssccccsssscccssscccsccccccc" />
+    <path
+       sodipodi:nodetypes="cscccsssscccssssccccsssscccssscccsccccccc"
+       id="path12228"
+       d="m 1168.1595,342.56779 c -0.7614,0.43962 -1.0223,1.41328 -0.5827,2.17472 0.3692,0.63943 1.1148,0.92293 1.7952,0.73801 l 0.8856,7.01744 -5.9747,-2.37177 c 0.1221,-0.4058 0.085,-0.85847 -0.1434,-1.25446 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58272 -0.7615,0.43963 -1.0224,1.41328 -0.5827,2.17473 0.4396,0.76144 1.4132,1.02233 2.1747,0.58271 0.04,-0.0232 0.078,-0.0502 0.1156,-0.076 l 1.7674,5.94664 -4.8033,-0.45344 c 0.062,-0.35524 0.01,-0.73302 -0.1868,-1.06979 -0.4396,-0.76144 -1.4133,-1.02233 -2.1747,-0.58272 -0.7614,0.43962 -1.0223,1.41329 -0.5827,2.17473 0.4396,0.76144 1.4133,1.02234 2.1747,0.58271 0.2061,-0.11898 0.3748,-0.27748 0.5036,-0.4599 l 4.7681,3.93017 20.4939,-11.83216 -0.631,-5.66439 c 0.1924,-0.0286 0.3818,-0.0927 0.5604,-0.19586 0.7614,-0.43962 1.0223,-1.41327 0.5827,-2.17472 -0.4396,-0.76144 -1.4133,-1.02234 -2.1747,-0.58272 -0.7615,0.43963 -1.0224,1.41329 -0.5828,2.17472 0.1638,0.28361 0.4011,0.49752 0.6744,0.63191 l -1.7431,3.55328 -4.2592,-3.99417 c 0.6024,-0.4834 0.7812,-1.34437 0.3831,-2.03396 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58271 -0.7615,0.43961 -1.0224,1.41327 -0.5827,2.17472 0.2426,0.42037 0.6485,0.68626 1.0912,0.7679 l -0.7985,5.84189 -5.7845,-4.17627 c 0.4008,-0.49725 0.4796,-1.20897 0.1411,-1.79527 -0.4396,-0.76145 -1.4133,-1.02234 -2.1747,-0.58272 z m -3.4951,17.82643 1.9922,3.45053 20.5276,-11.85161 -1.9922,-3.45053 z"
+       style="fill:#aba315;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(-20,190)"
+       id="g12230"
+       style="opacity:0.5">
+      <ellipse
+         style="opacity:1;fill:#db3279;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse12232"
+         cx="825.5"
+         cy="531.86218"
+         rx="24.5"
+         ry="25.5" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="814"
+         y="542.72473"
+         id="text12234"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan12236"
+           x="814"
+           y="542.72473"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1">C</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       sodipodi:linespacing="521%"
+       id="text12238"
+       y="727.09808"
+       x="843.06543"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#c6c6c6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#c6c6c6;fill-opacity:1;"
+         y="727.09808"
+         x="843.06543"
+         id="tspan12240"
+         sodipodi:role="line">cptcrunch</tspan></text>
+    <g
+       id="g12242"
+       transform="translate(-20,250)"
+       style="opacity:0.5">
+      <ellipse
+         ry="25.5"
+         rx="24.5"
+         cy="531.86218"
+         cx="825.5"
+         id="ellipse12244"
+         style="opacity:1;fill:#dc5c5c;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text12246"
+         y="543.72473"
+         x="810"
+         style="font-style:normal;font-weight:normal;font-size:33.39959717px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#ffffff;fill-opacity:1"
+           y="543.72473"
+           x="810"
+           id="tspan12248"
+           sodipodi:role="line">M</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.39400482px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#c6c6c6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="843.06543"
+       y="787.09808"
+       id="text12250"
+       sodipodi:linespacing="521%"
+       inkscape:export-filename="/home/duffy/SparkleShare/mockups (2)/PNG/login_v1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan12252"
+         x="843.06543"
+         y="787.09808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#c6c6c6;fill-opacity:1">mrgyprgy</tspan></text>
+  </g>
+</svg>
